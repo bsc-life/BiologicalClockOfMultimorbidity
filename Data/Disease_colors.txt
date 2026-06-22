@@ -1,0 +1,1976 @@
+disease	category	color	DiseaseName
+A00	Infectious and parasitic	#DD3232	Cholera
+A01	Infectious and parasitic	#DD3232	Typhoid and paratyphoid fevers
+A02	Infectious and parasitic	#DD3232	Other salmonella infections
+A03	Infectious and parasitic	#DD3232	Shigellosis
+A04	Infectious and parasitic	#DD3232	Other bacterial intestinal infections
+A05	Infectious and parasitic	#DD3232	Oth bacterial foodborne intoxications, NEC
+A06	Infectious and parasitic	#DD3232	Amebiasis
+A07	Infectious and parasitic	#DD3232	Other protozoal intestinal diseases
+A08	Infectious and parasitic	#DD3232	Viral and other specified intestinal infections
+A09	Infectious and parasitic	#DD3232	Infectious gastroenteritis and colitis, unspecified
+A10	Infectious and parasitic	#DD3232	NA
+A11	Infectious and parasitic	#DD3232	NA
+A12	Infectious and parasitic	#DD3232	NA
+A13	Infectious and parasitic	#DD3232	NA
+A14	Infectious and parasitic	#DD3232	NA
+A15	Infectious and parasitic	#DD3232	Respiratory tuberculosis
+A16	Infectious and parasitic	#DD3232	NA
+A17	Infectious and parasitic	#DD3232	Tuberculosis of nervous system
+A18	Infectious and parasitic	#DD3232	Tuberculosis of other organs
+A19	Infectious and parasitic	#DD3232	Miliary tuberculosis
+A20	Infectious and parasitic	#DD3232	Plague
+A21	Infectious and parasitic	#DD3232	Tularemia
+A22	Infectious and parasitic	#DD3232	Anthrax
+A23	Infectious and parasitic	#DD3232	Brucellosis
+A24	Infectious and parasitic	#DD3232	Glanders and melioidosis
+A25	Infectious and parasitic	#DD3232	Rat-bite fevers
+A26	Infectious and parasitic	#DD3232	Erysipeloid
+A27	Infectious and parasitic	#DD3232	Leptospirosis
+A28	Infectious and parasitic	#DD3232	Other zoonotic bacterial diseases, not elsewhere classified
+A29	Infectious and parasitic	#DD3232	NA
+A30	Infectious and parasitic	#DD3232	Leprosy [Hansen's disease]
+A31	Infectious and parasitic	#DD3232	Infection due to other mycobacteria
+A32	Infectious and parasitic	#DD3232	Listeriosis
+A33	Infectious and parasitic	#DD3232	Tetanus neonatorum
+A34	Infectious and parasitic	#DD3232	Obstetrical tetanus
+A35	Infectious and parasitic	#DD3232	Other tetanus
+A36	Infectious and parasitic	#DD3232	Diphtheria
+A37	Infectious and parasitic	#DD3232	Whooping cough
+A38	Infectious and parasitic	#DD3232	Scarlet fever
+A39	Infectious and parasitic	#DD3232	Meningococcal infection
+A40	Infectious and parasitic	#DD3232	Streptococcal sepsis
+A41	Infectious and parasitic	#DD3232	Other sepsis
+A42	Infectious and parasitic	#DD3232	Actinomycosis
+A43	Infectious and parasitic	#DD3232	Nocardiosis
+A44	Infectious and parasitic	#DD3232	Bartonellosis
+A45	Infectious and parasitic	#DD3232	NA
+A46	Infectious and parasitic	#DD3232	Erysipelas
+A47	Infectious and parasitic	#DD3232	NA
+A48	Infectious and parasitic	#DD3232	Other bacterial diseases, not elsewhere classified
+A49	Infectious and parasitic	#DD3232	Bacterial infection of unspecified site
+A50	Infectious and parasitic	#DD3232	Congenital syphilis
+A51	Infectious and parasitic	#DD3232	Early syphilis
+A52	Infectious and parasitic	#DD3232	Late syphilis
+A53	Infectious and parasitic	#DD3232	Other and unspecified syphilis
+A54	Infectious and parasitic	#DD3232	Gonococcal infection
+A55	Infectious and parasitic	#DD3232	Chlamydial lymphogranuloma (venereum)
+A56	Infectious and parasitic	#DD3232	Other sexually transmitted chlamydial diseases
+A57	Infectious and parasitic	#DD3232	Chancroid
+A58	Infectious and parasitic	#DD3232	Granuloma inguinale
+A59	Infectious and parasitic	#DD3232	Trichomoniasis
+A60	Infectious and parasitic	#DD3232	Anogenital herpesviral [herpes simplex] infections
+A61	Infectious and parasitic	#DD3232	NA
+A62	Infectious and parasitic	#DD3232	NA
+A63	Infectious and parasitic	#DD3232	Oth predominantly sexually transmitted diseases, NEC
+A64	Infectious and parasitic	#DD3232	Unspecified sexually transmitted disease
+A65	Infectious and parasitic	#DD3232	Nonvenereal syphilis
+A66	Infectious and parasitic	#DD3232	Yaws
+A67	Infectious and parasitic	#DD3232	Pinta [carate]
+A68	Infectious and parasitic	#DD3232	Relapsing fevers
+A69	Infectious and parasitic	#DD3232	Other spirochetal infections
+A70	Infectious and parasitic	#DD3232	Chlamydia psittaci infections
+A71	Infectious and parasitic	#DD3232	Trachoma
+A72	Infectious and parasitic	#DD3232	NA
+A73	Infectious and parasitic	#DD3232	NA
+A74	Infectious and parasitic	#DD3232	Other diseases caused by chlamydiae
+A75	Infectious and parasitic	#DD3232	Typhus fever
+A76	Infectious and parasitic	#DD3232	NA
+A77	Infectious and parasitic	#DD3232	Spotted fever [tick-borne rickettsioses]
+A78	Infectious and parasitic	#DD3232	Q fever
+A79	Infectious and parasitic	#DD3232	Other rickettsioses
+A80	Infectious and parasitic	#DD3232	Acute poliomyelitis
+A81	Infectious and parasitic	#DD3232	Atypical virus infections of central nervous system
+A82	Infectious and parasitic	#DD3232	Rabies
+A83	Infectious and parasitic	#DD3232	Mosquito-borne viral encephalitis
+A84	Infectious and parasitic	#DD3232	Tick-borne viral encephalitis
+A85	Infectious and parasitic	#DD3232	Other viral encephalitis, not elsewhere classified
+A86	Infectious and parasitic	#DD3232	Unspecified viral encephalitis
+A87	Infectious and parasitic	#DD3232	Viral meningitis
+A88	Infectious and parasitic	#DD3232	Oth viral infections of central nervous system, NEC
+A89	Infectious and parasitic	#DD3232	Unspecified viral infection of central nervous system
+A90	Infectious and parasitic	#DD3232	Dengue fever [classical dengue]
+A91	Infectious and parasitic	#DD3232	Dengue hemorrhagic fever
+A92	Infectious and parasitic	#DD3232	Other mosquito-borne viral fevers
+A93	Infectious and parasitic	#DD3232	Other arthropod-borne viral fevers, not elsewhere classified Other arthropod-borne viral fevers, not elsewhere classified
+A94	Infectious and parasitic	#DD3232	Unspecified arthropod-borne viral fever
+A95	Infectious and parasitic	#DD3232	Yellow fever
+A96	Infectious and parasitic	#DD3232	Arenaviral hemorrhagic fever
+A97	Infectious and parasitic	#DD3232	NA
+A98	Infectious and parasitic	#DD3232	Other viral hemorrhagic fevers, not elsewhere classified
+A99	Infectious and parasitic	#DD3232	Unspecified viral hemorrhagic fever
+B00	Infectious and parasitic	#DD3232	Herpesviral [herpes simplex] infections
+B01	Infectious and parasitic	#DD3232	Varicella [chickenpox]
+B02	Infectious and parasitic	#DD3232	Zoster [herpes zoster]
+B03	Infectious and parasitic	#DD3232	Smallpox
+B04	Infectious and parasitic	#DD3232	Monkeypox
+B05	Infectious and parasitic	#DD3232	Measles
+B06	Infectious and parasitic	#DD3232	Rubella [German measles]
+B07	Infectious and parasitic	#DD3232	Viral warts
+B08	Infectious and parasitic	#DD3232	Oth viral infect with skin and mucous membrane lesions, NEC
+B09	Infectious and parasitic	#DD3232	Unsp viral infection with skin and mucous membrane lesions
+B10	Infectious and parasitic	#DD3232	Other human herpesviruses
+B11	Infectious and parasitic	#DD3232	NA
+B12	Infectious and parasitic	#DD3232	NA
+B13	Infectious and parasitic	#DD3232	NA
+B14	Infectious and parasitic	#DD3232	NA
+B15	Infectious and parasitic	#DD3232	Acute hepatitis A
+B16	Infectious and parasitic	#DD3232	Acute hepatitis B
+B17	Infectious and parasitic	#DD3232	Other acute viral hepatitis
+B18	Infectious and parasitic	#DD3232	Chronic viral hepatitis
+B19	Infectious and parasitic	#DD3232	Unspecified viral hepatitis
+B20	Infectious and parasitic	#DD3232	Human immunodeficiency virus [HIV] disease
+B21	Infectious and parasitic	#DD3232	NA
+B22	Infectious and parasitic	#DD3232	NA
+B23	Infectious and parasitic	#DD3232	NA
+B24	Infectious and parasitic	#DD3232	NA
+B25	Infectious and parasitic	#DD3232	Cytomegaloviral disease
+B26	Infectious and parasitic	#DD3232	Mumps
+B27	Infectious and parasitic	#DD3232	Infectious mononucleosis
+B28	Infectious and parasitic	#DD3232	NA
+B29	Infectious and parasitic	#DD3232	NA
+B30	Infectious and parasitic	#DD3232	Viral conjunctivitis
+B31	Infectious and parasitic	#DD3232	NA
+B32	Infectious and parasitic	#DD3232	NA
+B33	Infectious and parasitic	#DD3232	Other viral diseases, not elsewhere classified
+B34	Infectious and parasitic	#DD3232	Viral infection of unspecified site
+B35	Infectious and parasitic	#DD3232	Dermatophytosis
+B36	Infectious and parasitic	#DD3232	Other superficial mycoses
+B37	Infectious and parasitic	#DD3232	Candidiasis
+B38	Infectious and parasitic	#DD3232	Coccidioidomycosis
+B39	Infectious and parasitic	#DD3232	Histoplasmosis
+B40	Infectious and parasitic	#DD3232	Blastomycosis
+B41	Infectious and parasitic	#DD3232	Paracoccidioidomycosis
+B42	Infectious and parasitic	#DD3232	Sporotrichosis
+B43	Infectious and parasitic	#DD3232	Chromomycosis and pheomycotic abscess
+B44	Infectious and parasitic	#DD3232	Aspergillosis
+B45	Infectious and parasitic	#DD3232	Cryptococcosis
+B46	Infectious and parasitic	#DD3232	Zygomycosis
+B47	Infectious and parasitic	#DD3232	Mycetoma
+B48	Infectious and parasitic	#DD3232	Other mycoses, not elsewhere classified
+B49	Infectious and parasitic	#DD3232	Unspecified mycosis
+B50	Infectious and parasitic	#DD3232	Plasmodium falciparum malaria
+B51	Infectious and parasitic	#DD3232	Plasmodium vivax malaria
+B52	Infectious and parasitic	#DD3232	Plasmodium malariae malaria
+B53	Infectious and parasitic	#DD3232	Other specified malaria
+B54	Infectious and parasitic	#DD3232	Unspecified malaria
+B55	Infectious and parasitic	#DD3232	Leishmaniasis
+B56	Infectious and parasitic	#DD3232	African trypanosomiasis
+B57	Infectious and parasitic	#DD3232	Chagas' disease
+B58	Infectious and parasitic	#DD3232	Toxoplasmosis
+B59	Infectious and parasitic	#DD3232	Pneumocystosis
+B60	Infectious and parasitic	#DD3232	Other protozoal diseases, not elsewhere classified
+B61	Infectious and parasitic	#DD3232	NA
+B62	Infectious and parasitic	#DD3232	NA
+B63	Infectious and parasitic	#DD3232	NA
+B64	Infectious and parasitic	#DD3232	Unspecified protozoal disease
+B65	Infectious and parasitic	#DD3232	Schistosomiasis [bilharziasis]
+B66	Infectious and parasitic	#DD3232	Other fluke infections
+B67	Infectious and parasitic	#DD3232	Echinococcosis
+B68	Infectious and parasitic	#DD3232	Taeniasis
+B69	Infectious and parasitic	#DD3232	Cysticercosis
+B70	Infectious and parasitic	#DD3232	Diphyllobothriasis and sparganosis
+B71	Infectious and parasitic	#DD3232	Other cestode infections
+B72	Infectious and parasitic	#DD3232	Dracunculiasis
+B73	Infectious and parasitic	#DD3232	Onchocerciasis
+B74	Infectious and parasitic	#DD3232	Filariasis
+B75	Infectious and parasitic	#DD3232	Trichinellosis
+B76	Infectious and parasitic	#DD3232	Hookworm diseases
+B77	Infectious and parasitic	#DD3232	Ascariasis
+B78	Infectious and parasitic	#DD3232	Strongyloidiasis
+B79	Infectious and parasitic	#DD3232	Trichuriasis
+B80	Infectious and parasitic	#DD3232	Enterobiasis
+B81	Infectious and parasitic	#DD3232	Other intestinal helminthiases, not elsewhere classified
+B82	Infectious and parasitic	#DD3232	Unspecified intestinal parasitism
+B83	Infectious and parasitic	#DD3232	Other helminthiases
+B84	Infectious and parasitic	#DD3232	NA
+B85	Infectious and parasitic	#DD3232	Pediculosis and phthiriasis
+B86	Infectious and parasitic	#DD3232	Scabies
+B87	Infectious and parasitic	#DD3232	Myiasis
+B88	Infectious and parasitic	#DD3232	Other infestations
+B89	Infectious and parasitic	#DD3232	Unspecified parasitic disease
+B90	Infectious and parasitic	#DD3232	Sequelae of tuberculosis
+B91	Infectious and parasitic	#DD3232	Sequelae of poliomyelitis
+B92	Infectious and parasitic	#DD3232	Sequelae of leprosy
+B93	Infectious and parasitic	#DD3232	NA
+B94	Infectious and parasitic	#DD3232	Sequelae of other and unsp infectious and parasitic diseases Sequelae of other and unspecified infectious and parasitic diseases
+B95	Infectious and parasitic	#DD3232	Strep as the cause of diseases classified elsewhere
+B96	Infectious and parasitic	#DD3232	Oth bacterial agents as the cause of diseases classd elswhr
+B97	Infectious and parasitic	#DD3232	Viral agents as the cause of diseases classified elsewhere
+B98	Infectious and parasitic	#DD3232	NA
+B99	Infectious and parasitic	#DD3232	Other and unspecified infectious diseases
+C00	Neoplasms	#FAC6CC	Malignant neoplasm of lip
+C01	Neoplasms	#FAC6CC	Malignant neoplasm of base of tongue
+C02	Neoplasms	#FAC6CC	Malignant neoplasm of other and unspecified parts of tongue
+C03	Neoplasms	#FAC6CC	Malignant neoplasm of gum
+C04	Neoplasms	#FAC6CC	Malignant neoplasm of floor of mouth
+C05	Neoplasms	#FAC6CC	Malignant neoplasm of palate
+C06	Neoplasms	#FAC6CC	Malignant neoplasm of other and unspecified parts of mouth
+C07	Neoplasms	#FAC6CC	Malignant neoplasm of parotid gland
+C08	Neoplasms	#FAC6CC	Malignant neoplasm of other and unsp major salivary glands
+C09	Neoplasms	#FAC6CC	Malignant neoplasm of tonsil
+C10	Neoplasms	#FAC6CC	Malignant neoplasm of oropharynx
+C11	Neoplasms	#FAC6CC	Malignant neoplasm of nasopharynx
+C12	Neoplasms	#FAC6CC	Malignant neoplasm of pyriform sinus
+C13	Neoplasms	#FAC6CC	Malignant neoplasm of hypopharynx
+C14	Neoplasms	#FAC6CC	Malig neoplasm of sites in the lip, oral cavity and pharynx
+C15	Neoplasms	#FAC6CC	Malignant neoplasm of esophagus
+C16	Neoplasms	#FAC6CC	Malignant neoplasm of stomach
+C17	Neoplasms	#FAC6CC	Malignant neoplasm of small intestine
+C18	Neoplasms	#FAC6CC	Malignant neoplasm of colon
+C19	Neoplasms	#FAC6CC	Malignant neoplasm of rectosigmoid junction
+C20	Neoplasms	#FAC6CC	Malignant neoplasm of rectum
+C21	Neoplasms	#FAC6CC	Malignant neoplasm of anus and anal canal
+C22	Neoplasms	#FAC6CC	Malignant neoplasm of liver and intrahepatic bile ducts
+C23	Neoplasms	#FAC6CC	Malignant neoplasm of gallbladder
+C24	Neoplasms	#FAC6CC	Malignant neoplasm of other and unsp parts of biliary tract
+C25	Neoplasms	#FAC6CC	Malignant neoplasm of pancreas
+C26	Neoplasms	#FAC6CC	Malignant neoplasm of other and ill-defined digestive organs Malignant neoplasm of other and ill-defined digestive organs
+C27	Neoplasms	#FAC6CC	NA
+C28	Neoplasms	#FAC6CC	NA
+C29	Neoplasms	#FAC6CC	NA
+C30	Neoplasms	#FAC6CC	Malignant neoplasm of nasal cavity and middle ear
+C31	Neoplasms	#FAC6CC	Malignant neoplasm of accessory sinuses
+C32	Neoplasms	#FAC6CC	Malignant neoplasm of larynx
+C33	Neoplasms	#FAC6CC	Malignant neoplasm of trachea
+C34	Neoplasms	#FAC6CC	Malignant neoplasm of bronchus and lung
+C35	Neoplasms	#FAC6CC	NA
+C36	Neoplasms	#FAC6CC	NA
+C37	Neoplasms	#FAC6CC	Malignant neoplasm of thymus
+C38	Neoplasms	#FAC6CC	Malignant neoplasm of heart, mediastinum and pleura
+C39	Neoplasms	#FAC6CC	Malig neoplm of sites in the resp sys and intrathorac organs Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs
+C40	Neoplasms	#FAC6CC	Malignant neoplasm of bone and articular cartilage of limbs
+C41	Neoplasms	#FAC6CC	Malignant neoplasm of bone/artic cartl of and unsp sites
+C42	Neoplasms	#FAC6CC	NA
+C43	Neoplasms	#FAC6CC	Malignant melanoma of skin
+C44	Neoplasms	#FAC6CC	Other and unspecified malignant neoplasm of skin
+C45	Neoplasms	#FAC6CC	Mesothelioma
+C46	Neoplasms	#FAC6CC	Kaposi's sarcoma
+C47	Neoplasms	#FAC6CC	Malignant neoplasm of prph nerves and autonomic nervous sys
+C48	Neoplasms	#FAC6CC	Malignant neoplasm of retroperitoneum and peritoneum
+C49	Neoplasms	#FAC6CC	Malignant neoplasm of other connective and soft tissue
+C50	Neoplasms	#FAC6CC	Malignant neoplasm of breast
+C51	Neoplasms	#FAC6CC	Malignant neoplasm of vulva
+C52	Neoplasms	#FAC6CC	Malignant neoplasm of vagina
+C53	Neoplasms	#FAC6CC	Malignant neoplasm of cervix uteri
+C54	Neoplasms	#FAC6CC	Malignant neoplasm of corpus uteri
+C55	Neoplasms	#FAC6CC	Malignant neoplasm of uterus, part unspecified
+C56	Neoplasms	#FAC6CC	Malignant neoplasm of ovary
+C57	Neoplasms	#FAC6CC	Malignant neoplasm of other and unsp female genital organs
+C58	Neoplasms	#FAC6CC	Malignant neoplasm of placenta
+C59	Neoplasms	#FAC6CC	NA
+C60	Neoplasms	#FAC6CC	Malignant neoplasm of penis
+C61	Neoplasms	#FAC6CC	Malignant neoplasm of prostate
+C62	Neoplasms	#FAC6CC	Malignant neoplasm of testis
+C63	Neoplasms	#FAC6CC	Malignant neoplasm of other and unsp male genital organs
+C64	Neoplasms	#FAC6CC	Malignant neoplasm of kidney, except renal pelvis
+C65	Neoplasms	#FAC6CC	Malignant neoplasm of renal pelvis
+C66	Neoplasms	#FAC6CC	Malignant neoplasm of ureter
+C67	Neoplasms	#FAC6CC	Malignant neoplasm of bladder
+C68	Neoplasms	#FAC6CC	Malignant neoplasm of other and unspecified urinary organs
+C69	Neoplasms	#FAC6CC	Malignant neoplasm of eye and adnexa
+C70	Neoplasms	#FAC6CC	Malignant neoplasm of meninges
+C71	Neoplasms	#FAC6CC	Malignant neoplasm of brain
+C72	Neoplasms	#FAC6CC	Malig neoplm of spinal cord, cranial nerves and oth prt cnsl Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system
+C73	Neoplasms	#FAC6CC	Malignant neoplasm of thyroid gland
+C74	Neoplasms	#FAC6CC	Malignant neoplasm of adrenal gland
+C75	Neoplasms	#FAC6CC	Malignant neoplasm of endo glands and related structures
+C76	Neoplasms	#FAC6CC	Malignant neoplasm of other and ill-defined sites
+C77	Neoplasms	#FAC6CC	Secondary and unspecified malignant neoplasm of lymph nodes
+C78	Neoplasms	#FAC6CC	Secondary malignant neoplasm of resp and digestive organs
+C79	Neoplasms	#FAC6CC	Secondary malignant neoplasm of other and unspecified sites
+C80	Neoplasms	#FAC6CC	Malignant neoplasm without specification of site
+C81	Neoplasms	#FAC6CC	Hodgkin lymphoma
+C82	Neoplasms	#FAC6CC	Follicular lymphoma
+C83	Neoplasms	#FAC6CC	Non-follicular lymphoma
+C84	Neoplasms	#FAC6CC	Mature T/NK-cell lymphomas
+C85	Neoplasms	#FAC6CC	Oth and unspecified types of non-Hodgkin lymphoma
+C86	Neoplasms	#FAC6CC	Other specified types of T/NK-cell lymphoma
+C87	Neoplasms	#FAC6CC	NA
+C88	Neoplasms	#FAC6CC	Malig immunoproliferative dis and certain oth B-cell lymph
+C89	Neoplasms	#FAC6CC	NA
+C90	Neoplasms	#FAC6CC	Multiple myeloma and malignant plasma cell neoplasms
+C91	Neoplasms	#FAC6CC	Lymphoid leukemia
+C92	Neoplasms	#FAC6CC	Myeloid leukemia
+C93	Neoplasms	#FAC6CC	Monocytic leukemia
+C94	Neoplasms	#FAC6CC	Other leukemias of specified cell type
+C95	Neoplasms	#FAC6CC	Leukemia of unspecified cell type
+C96	Neoplasms	#FAC6CC	Oth & unsp malig neoplm of lymphoid, hematpoetc and rel tiss Other and unspecified malignant neoplasms of lymphoid, hematopoietic and related tissue
+C97	Neoplasms	#FAC6CC	NA
+C98	Neoplasms	#FAC6CC	NA
+C99	Neoplasms	#FAC6CC	NA
+D00	Neoplasms	#FAC6CC	Carcinoma in situ of oral cavity, esophagus and stomach
+D01	Neoplasms	#FAC6CC	Carcinoma in situ of other and unspecified digestive organs
+D02	Neoplasms	#FAC6CC	Carcinoma in situ of middle ear and respiratory system
+D03	Neoplasms	#FAC6CC	Melanoma in situ
+D04	Neoplasms	#FAC6CC	Carcinoma in situ of skin
+D05	Neoplasms	#FAC6CC	Carcinoma in situ of breast
+D06	Neoplasms	#FAC6CC	Carcinoma in situ of cervix uteri
+D07	Neoplasms	#FAC6CC	Carcinoma in situ of other and unspecified genital organs
+D08	Neoplasms	#FAC6CC	NA
+D09	Neoplasms	#FAC6CC	Carcinoma in situ of other and unspecified sites
+D10	Neoplasms	#FAC6CC	Benign neoplasm of mouth and pharynx
+D11	Neoplasms	#FAC6CC	Benign neoplasm of major salivary glands
+D12	Neoplasms	#FAC6CC	Benign neoplasm of colon, rectum, anus and anal canal
+D13	Neoplasms	#FAC6CC	Benign neoplasm of and ill-defined parts of digestive system Benign neoplasm of other and ill-defined parts of digestive system
+D14	Neoplasms	#FAC6CC	Benign neoplasm of middle ear and respiratory system
+D15	Neoplasms	#FAC6CC	Benign neoplasm of other and unsp intrathoracic organs
+D16	Neoplasms	#FAC6CC	Benign neoplasm of bone and articular cartilage
+D17	Neoplasms	#FAC6CC	Benign lipomatous neoplasm
+D18	Neoplasms	#FAC6CC	Hemangioma and lymphangioma, any site
+D19	Neoplasms	#FAC6CC	Benign neoplasm of mesothelial tissue
+D20	Neoplasms	#FAC6CC	Benign neoplm of soft tissue of retroperiton and peritoneum
+D21	Neoplasms	#FAC6CC	Other benign neoplasms of connective and other soft tissue
+D22	Neoplasms	#FAC6CC	Melanocytic nevi
+D23	Neoplasms	#FAC6CC	Other benign neoplasms of skin
+D24	Neoplasms	#FAC6CC	Benign neoplasm of breast
+D25	Neoplasms	#FAC6CC	Leiomyoma of uterus
+D26	Neoplasms	#FAC6CC	Other benign neoplasms of uterus
+D27	Neoplasms	#FAC6CC	Benign neoplasm of ovary
+D28	Neoplasms	#FAC6CC	Benign neoplasm of other and unsp female genital organs
+D29	Neoplasms	#FAC6CC	Benign neoplasm of male genital organs
+D30	Neoplasms	#FAC6CC	Benign neoplasm of urinary organs
+D31	Neoplasms	#FAC6CC	Benign neoplasm of eye and adnexa
+D32	Neoplasms	#FAC6CC	Benign neoplasm of meninges
+D33	Neoplasms	#FAC6CC	Benign neoplasm of brain and oth prt central nervous system
+D34	Neoplasms	#FAC6CC	Benign neoplasm of thyroid gland
+D35	Neoplasms	#FAC6CC	Benign neoplasm of other and unspecified endocrine glands
+D36	Neoplasms	#FAC6CC	Benign neoplasm of other and unspecified sites
+D37	Neoplasms	#FAC6CC	Neoplasm of uncrt behavior of oral cavity and dgstv organs
+D38	Neoplasms	#FAC6CC	Neoplm of uncrt behav of mid ear & resp and intrathorac org
+D39	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of female genital organs
+D40	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of male genital organs
+D41	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of urinary organs
+D42	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of meninges
+D43	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of brain and cnsl
+D44	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of endocrine glands
+D45	Neoplasms	#FAC6CC	Polycythemia vera
+D46	Neoplasms	#FAC6CC	Myelodysplastic syndromes
+D47	Neoplasms	#FAC6CC	Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue
+D48	Neoplasms	#FAC6CC	Neoplasm of uncertain behavior of other and unsp sites
+D50	Blood and blood-forming organs (immune)	#FFB6AD	Iron deficiency anemia
+D51	Blood and blood-forming organs (immune)	#FFB6AD	Vitamin B12 deficiency anemia
+D52	Blood and blood-forming organs (immune)	#FFB6AD	Folate deficiency anemia
+D53	Blood and blood-forming organs (immune)	#FFB6AD	Other nutritional anemias
+D54	Blood and blood-forming organs (immune)	#FFB6AD	NA
+D55	Blood and blood-forming organs (immune)	#FFB6AD	Anemia due to enzyme disorders
+D56	Blood and blood-forming organs (immune)	#FFB6AD	Thalassemia
+D57	Blood and blood-forming organs (immune)	#FFB6AD	Sickle-cell disorders
+D58	Blood and blood-forming organs (immune)	#FFB6AD	Other hereditary hemolytic anemias
+D59	Blood and blood-forming organs (immune)	#FFB6AD	Acquired hemolytic anemia
+D60	Blood and blood-forming organs (immune)	#FFB6AD	Acquired pure red cell aplasia [erythroblastopenia]
+D61	Blood and blood-forming organs (immune)	#FFB6AD	Oth aplastic anemias and other bone marrow failure syndromes Other aplastic anemias and other bone marrow failure syndromes
+D62	Blood and blood-forming organs (immune)	#FFB6AD	Acute posthemorrhagic anemia
+D63	Blood and blood-forming organs (immune)	#FFB6AD	Anemia in chronic diseases classified elsewhere
+D64	Blood and blood-forming organs (immune)	#FFB6AD	Other anemias
+D65	Blood and blood-forming organs (immune)	#FFB6AD	Disseminated intravascular coagulation
+D66	Blood and blood-forming organs (immune)	#FFB6AD	Hereditary factor VIII deficiency
+D67	Blood and blood-forming organs (immune)	#FFB6AD	Hereditary factor IX deficiency
+D68	Blood and blood-forming organs (immune)	#FFB6AD	Other coagulation defects
+D69	Blood and blood-forming organs (immune)	#FFB6AD	Purpura and other hemorrhagic conditions
+D70	Blood and blood-forming organs (immune)	#FFB6AD	Neutropenia
+D71	Blood and blood-forming organs (immune)	#FFB6AD	Functional disorders of polymorphonuclear neutrophils
+D72	Blood and blood-forming organs (immune)	#FFB6AD	Other disorders of white blood cells
+D73	Blood and blood-forming organs (immune)	#FFB6AD	Diseases of spleen
+D74	Blood and blood-forming organs (immune)	#FFB6AD	Methemoglobinemia
+D75	Blood and blood-forming organs (immune)	#FFB6AD	Other and unsp diseases of blood and blood-forming organs
+D76	Blood and blood-forming organs (immune)	#FFB6AD	Oth dis with lymphoreticular and reticulohistiocytic tissue
+D77	Blood and blood-forming organs (immune)	#FFB6AD	Oth disord of bld/bld-frm organs in diseases classd elswhr
+D78	Blood and blood-forming organs (immune)	#FFB6AD	Intraop and postprocedural complications of the spleen
+D79	Blood and blood-forming organs (immune)	#FFB6AD	NA
+D80	Blood and blood-forming organs (immune)	#FFB6AD	Immunodeficiency with predominantly antibody defects
+D81	Blood and blood-forming organs (immune)	#FFB6AD	Combined immunodeficiencies
+D82	Blood and blood-forming organs (immune)	#FFB6AD	Immunodeficiency associated with other major defects
+D83	Blood and blood-forming organs (immune)	#FFB6AD	Common variable immunodeficiency
+D84	Blood and blood-forming organs (immune)	#FFB6AD	Other immunodeficiencies
+D85	Blood and blood-forming organs (immune)	#FFB6AD	NA
+D86	Blood and blood-forming organs (immune)	#FFB6AD	Sarcoidosis
+D87	Blood and blood-forming organs (immune)	#FFB6AD	NA
+D88	Blood and blood-forming organs (immune)	#FFB6AD	NA
+D89	Blood and blood-forming organs (immune)	#FFB6AD	Oth disorders involving the immune mechanism, NEC
+E00	Endocrine, nutritional and metabolic	#FBAF5F	Congenital iodine-deficiency syndrome
+E01	Endocrine, nutritional and metabolic	#FBAF5F	Iodine-deficiency related thyroid disorders and allied cond
+E02	Endocrine, nutritional and metabolic	#FBAF5F	Subclinical iodine-deficiency hypothyroidism
+E03	Endocrine, nutritional and metabolic	#FBAF5F	Other hypothyroidism
+E04	Endocrine, nutritional and metabolic	#FBAF5F	Other nontoxic goiter
+E05	Endocrine, nutritional and metabolic	#FBAF5F	Thyrotoxicosis [hyperthyroidism]
+E06	Endocrine, nutritional and metabolic	#FBAF5F	Thyroiditis
+E07	Endocrine, nutritional and metabolic	#FBAF5F	Other disorders of thyroid
+E08	Endocrine, nutritional and metabolic	#FBAF5F	Diabetes mellitus due to underlying condition
+E09	Endocrine, nutritional and metabolic	#FBAF5F	Drug or chemical induced diabetes mellitus
+E10	Endocrine, nutritional and metabolic	#FBAF5F	Type 1 diabetes mellitus
+E11	Endocrine, nutritional and metabolic	#FBAF5F	Type 2 diabetes mellitus
+E12	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E13	Endocrine, nutritional and metabolic	#FBAF5F	Other specified diabetes mellitus
+E14	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E15	Endocrine, nutritional and metabolic	#FBAF5F	Nondiabetic hypoglycemic coma
+E16	Endocrine, nutritional and metabolic	#FBAF5F	Other disorders of pancreatic internal secretion
+E17	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E18	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E19	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E20	Endocrine, nutritional and metabolic	#FBAF5F	Hypoparathyroidism
+E21	Endocrine, nutritional and metabolic	#FBAF5F	Hyperparathyroidism and other disorders of parathyroid gland Hyperparathyroidism and other disorders of parathyroid gland
+E22	Endocrine, nutritional and metabolic	#FBAF5F	Hyperfunction of pituitary gland
+E23	Endocrine, nutritional and metabolic	#FBAF5F	Hypofunction and other disorders of the pituitary gland
+E24	Endocrine, nutritional and metabolic	#FBAF5F	Cushing's syndrome
+E25	Endocrine, nutritional and metabolic	#FBAF5F	Adrenogenital disorders
+E26	Endocrine, nutritional and metabolic	#FBAF5F	Hyperaldosteronism
+E27	Endocrine, nutritional and metabolic	#FBAF5F	Other disorders of adrenal gland
+E28	Endocrine, nutritional and metabolic	#FBAF5F	Ovarian dysfunction
+E29	Endocrine, nutritional and metabolic	#FBAF5F	Testicular dysfunction
+E30	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of puberty, not elsewhere classified
+E31	Endocrine, nutritional and metabolic	#FBAF5F	Polyglandular dysfunction
+E32	Endocrine, nutritional and metabolic	#FBAF5F	Diseases of thymus
+E33	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E34	Endocrine, nutritional and metabolic	#FBAF5F	Other endocrine disorders
+E35	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of endocrine glands in diseases classd elswhr
+E36	Endocrine, nutritional and metabolic	#FBAF5F	Intraoperative complications of endocrine system
+E37	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E38	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E39	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E40	Endocrine, nutritional and metabolic	#FBAF5F	Kwashiorkor
+E41	Endocrine, nutritional and metabolic	#FBAF5F	Nutritional marasmus
+E42	Endocrine, nutritional and metabolic	#FBAF5F	Marasmic kwashiorkor
+E43	Endocrine, nutritional and metabolic	#FBAF5F	Unspecified severe protein-calorie malnutrition
+E44	Endocrine, nutritional and metabolic	#FBAF5F	Protein-calorie malnutrition of moderate and mild degree
+E45	Endocrine, nutritional and metabolic	#FBAF5F	Retarded development following protein-calorie malnutrition
+E46	Endocrine, nutritional and metabolic	#FBAF5F	Unspecified protein-calorie malnutrition
+E47	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E48	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E49	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E50	Endocrine, nutritional and metabolic	#FBAF5F	Vitamin A deficiency
+E51	Endocrine, nutritional and metabolic	#FBAF5F	Thiamine deficiency
+E52	Endocrine, nutritional and metabolic	#FBAF5F	Niacin deficiency [pellagra]
+E53	Endocrine, nutritional and metabolic	#FBAF5F	Deficiency of other B group vitamins
+E54	Endocrine, nutritional and metabolic	#FBAF5F	Ascorbic acid deficiency
+E55	Endocrine, nutritional and metabolic	#FBAF5F	Vitamin D deficiency
+E56	Endocrine, nutritional and metabolic	#FBAF5F	Other vitamin deficiencies
+E57	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E58	Endocrine, nutritional and metabolic	#FBAF5F	Dietary calcium deficiency
+E59	Endocrine, nutritional and metabolic	#FBAF5F	Dietary selenium deficiency
+E60	Endocrine, nutritional and metabolic	#FBAF5F	Dietary zinc deficiency
+E61	Endocrine, nutritional and metabolic	#FBAF5F	Deficiency of other nutrient elements
+E62	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E63	Endocrine, nutritional and metabolic	#FBAF5F	Other nutritional deficiencies
+E64	Endocrine, nutritional and metabolic	#FBAF5F	Sequelae of malnutrition and other nutritional deficiencies
+E65	Endocrine, nutritional and metabolic	#FBAF5F	Localized adiposity
+E66	Endocrine, nutritional and metabolic	#FBAF5F	Overweight and obesity
+E67	Endocrine, nutritional and metabolic	#FBAF5F	Other hyperalimentation
+E68	Endocrine, nutritional and metabolic	#FBAF5F	Sequelae of hyperalimentation
+E69	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E70	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of aromatic amino-acid metabolism
+E71	Endocrine, nutritional and metabolic	#FBAF5F	Disord of branched-chain amino-acid metab & fatty-acid metab Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism
+E72	Endocrine, nutritional and metabolic	#FBAF5F	Other disorders of amino-acid metabolism
+E73	Endocrine, nutritional and metabolic	#FBAF5F	Lactose intolerance
+E74	Endocrine, nutritional and metabolic	#FBAF5F	Other disorders of carbohydrate metabolism
+E75	Endocrine, nutritional and metabolic	#FBAF5F	Disord of sphingolipid metab and oth lipid storage disorders Disorders of sphingolipid metabolism and other lipid storage disorders
+E76	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of glycosaminoglycan metabolism
+E77	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of glycoprotein metabolism
+E78	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of lipoprotein metabolism and other lipidemias
+E79	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of purine and pyrimidine metabolism
+E80	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of porphyrin and bilirubin metabolism
+E81	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E82	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E83	Endocrine, nutritional and metabolic	#FBAF5F	Disorders of mineral metabolism
+E84	Endocrine, nutritional and metabolic	#FBAF5F	Cystic fibrosis
+E85	Endocrine, nutritional and metabolic	#FBAF5F	Amyloidosis
+E86	Endocrine, nutritional and metabolic	#FBAF5F	Volume depletion
+E87	Endocrine, nutritional and metabolic	#FBAF5F	Other disorders of fluid, electrolyte and acid-base balance
+E88	Endocrine, nutritional and metabolic	#FBAF5F	Other and unspecified metabolic disorders
+E89	Endocrine, nutritional and metabolic	#FBAF5F	Postproc endocrine and metabolic comp and disorders, NEC
+E90	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E91	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E92	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E93	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E94	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E95	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E96	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E97	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E98	Endocrine, nutritional and metabolic	#FBAF5F	NA
+E99	Endocrine, nutritional and metabolic	#FBAF5F	NA
+F00	Mental and behavioural	#FACF63	NA
+F01	Mental and behavioural	#FACF63	Vascular dementia
+F02	Mental and behavioural	#FACF63	Dementia in other diseases classified elsewhere
+F03	Mental and behavioural	#FACF63	Unspecified dementia
+F04	Mental and behavioural	#FACF63	Amnestic disorder due to known physiological condition
+F05	Mental and behavioural	#FACF63	Delirium due to known physiological condition
+F06	Mental and behavioural	#FACF63	Other mental disorders due to known physiological condition
+F07	Mental and behavioural	#FACF63	Personality & behavrl disorders due to known physiol cond
+F08	Mental and behavioural	#FACF63	NA
+F09	Mental and behavioural	#FACF63	Unsp mental disorder due to known physiological condition
+F10	Mental and behavioural	#FACF63	Alcohol related disorders
+F11	Mental and behavioural	#FACF63	Opioid related disorders
+F12	Mental and behavioural	#FACF63	Cannabis related disorders
+F13	Mental and behavioural	#FACF63	Sedative, hypnotic, or anxiolytic related disorders
+F14	Mental and behavioural	#FACF63	Cocaine related disorders
+F15	Mental and behavioural	#FACF63	Other stimulant related disorders
+F16	Mental and behavioural	#FACF63	Hallucinogen related disorders
+F17	Mental and behavioural	#FACF63	Nicotine dependence
+F18	Mental and behavioural	#FACF63	Inhalant related disorders
+F19	Mental and behavioural	#FACF63	Other psychoactive substance related disorders
+F20	Mental and behavioural	#FACF63	Schizophrenia
+F21	Mental and behavioural	#FACF63	Schizotypal disorder
+F22	Mental and behavioural	#FACF63	Delusional disorders
+F23	Mental and behavioural	#FACF63	Brief psychotic disorder
+F24	Mental and behavioural	#FACF63	Shared psychotic disorder
+F25	Mental and behavioural	#FACF63	Schizoaffective disorders
+F26	Mental and behavioural	#FACF63	NA
+F27	Mental and behavioural	#FACF63	NA
+F28	Mental and behavioural	#FACF63	Oth psych disorder not due to a sub or known physiol cond
+F29	Mental and behavioural	#FACF63	Unsp psychosis not due to a substance or known physiol cond
+F30	Mental and behavioural	#FACF63	Manic episode
+F31	Mental and behavioural	#FACF63	Bipolar disorder
+F32	Mental and behavioural	#FACF63	Major depressive disorder, single episode
+F33	Mental and behavioural	#FACF63	Major depressive disorder, recurrent
+F34	Mental and behavioural	#FACF63	Persistent mood [affective] disorders
+F35	Mental and behavioural	#FACF63	NA
+F36	Mental and behavioural	#FACF63	NA
+F37	Mental and behavioural	#FACF63	NA
+F38	Mental and behavioural	#FACF63	NA
+F39	Mental and behavioural	#FACF63	Unspecified mood [affective] disorder
+F40	Mental and behavioural	#FACF63	Phobic anxiety disorders
+F41	Mental and behavioural	#FACF63	Other anxiety disorders
+F42	Mental and behavioural	#FACF63	Obsessive-compulsive disorder
+F43	Mental and behavioural	#FACF63	Reaction to severe stress, and adjustment disorders
+F44	Mental and behavioural	#FACF63	Dissociative and conversion disorders
+F45	Mental and behavioural	#FACF63	Somatoform disorders
+F46	Mental and behavioural	#FACF63	NA
+F47	Mental and behavioural	#FACF63	NA
+F48	Mental and behavioural	#FACF63	Other nonpsychotic mental disorders
+F49	Mental and behavioural	#FACF63	NA
+F50	Mental and behavioural	#FACF63	Eating disorders
+F51	Mental and behavioural	#FACF63	Sleep disorders not due to a substance or known physiol cond Sleep disorders not due to a substance or known physiological condition
+F52	Mental and behavioural	#FACF63	Sexual dysfnct not due to a substance or known physiol cond
+F53	Mental and behavioural	#FACF63	Mental and behavrl disorders assoc with the puerperium, NEC
+F54	Mental and behavioural	#FACF63	Psych & behavrl factors assoc w disord or dis classd elswhr
+F55	Mental and behavioural	#FACF63	Abuse of non-psychoactive substances
+F56	Mental and behavioural	#FACF63	NA
+F57	Mental and behavioural	#FACF63	NA
+F58	Mental and behavioural	#FACF63	NA
+F59	Mental and behavioural	#FACF63	Unsp behavrl synd assoc w physiol disturb and physcl factors Unspecified behavioral syndromes associated with physiological disturbances and physical factors
+F60	Mental and behavioural	#FACF63	Specific personality disorders
+F61	Mental and behavioural	#FACF63	NA
+F62	Mental and behavioural	#FACF63	NA
+F63	Mental and behavioural	#FACF63	Impulse disorders
+F64	Mental and behavioural	#FACF63	Gender identity disorders
+F65	Mental and behavioural	#FACF63	Paraphilias
+F66	Mental and behavioural	#FACF63	Other sexual disorders
+F67	Mental and behavioural	#FACF63	NA
+F68	Mental and behavioural	#FACF63	Other disorders of adult personality and behavior
+F69	Mental and behavioural	#FACF63	Unspecified disorder of adult personality and behavior
+F70	Mental and behavioural	#FACF63	Mild intellectual disabilities
+F71	Mental and behavioural	#FACF63	Moderate intellectual disabilities
+F72	Mental and behavioural	#FACF63	Severe intellectual disabilities
+F73	Mental and behavioural	#FACF63	Profound intellectual disabilities
+F74	Mental and behavioural	#FACF63	NA
+F75	Mental and behavioural	#FACF63	NA
+F76	Mental and behavioural	#FACF63	NA
+F77	Mental and behavioural	#FACF63	NA
+F78	Mental and behavioural	#FACF63	Other intellectual disabilities
+F79	Mental and behavioural	#FACF63	Unspecified intellectual disabilities
+F80	Mental and behavioural	#FACF63	Specific developmental disorders of speech and language
+F81	Mental and behavioural	#FACF63	Specific developmental disorders of scholastic skills
+F82	Mental and behavioural	#FACF63	Specific developmental disorder of motor function
+F83	Mental and behavioural	#FACF63	NA
+F84	Mental and behavioural	#FACF63	Pervasive developmental disorders
+F85	Mental and behavioural	#FACF63	NA
+F86	Mental and behavioural	#FACF63	NA
+F87	Mental and behavioural	#FACF63	NA
+F88	Mental and behavioural	#FACF63	Other disorders of psychological development
+F89	Mental and behavioural	#FACF63	Unspecified disorder of psychological development
+F90	Mental and behavioural	#FACF63	Attention-deficit hyperactivity disorders
+F91	Mental and behavioural	#FACF63	Conduct disorders
+F92	Mental and behavioural	#FACF63	NA
+F93	Mental and behavioural	#FACF63	Emotional disorders with onset specific to childhood
+F94	Mental and behavioural	#FACF63	Disord social w onset specific to childhood and adolescence
+F95	Mental and behavioural	#FACF63	Tic disorder
+F96	Mental and behavioural	#FACF63	NA
+F97	Mental and behavioural	#FACF63	NA
+F98	Mental and behavioural	#FACF63	Oth behav/emotn disord w onset usly occur in chldhd and adol Other behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+F99	Mental and behavioural	#FACF63	Mental disorder, not otherwise specified
+G00	Nervous system	#FFEF6C	Bacterial meningitis, not elsewhere classified
+G01	Nervous system	#FFEF6C	Meningitis in bacterial diseases classified elsewhere
+G02	Nervous system	#FFEF6C	Meningitis in oth infec/parastc diseases classd elswhr
+G03	Nervous system	#FFEF6C	Meningitis due to other and unspecified causes
+G04	Nervous system	#FFEF6C	Encephalitis, myelitis and encephalomyelitis
+G05	Nervous system	#FFEF6C	Encphlts, myelitis & encephalomyelitis in dis classd elswhr
+G06	Nervous system	#FFEF6C	Intracranial and intraspinal abscess and granuloma
+G07	Nervous system	#FFEF6C	Intcrn & intraspinal abscs & granuloma in dis classd elswhr
+G08	Nervous system	#FFEF6C	Intracranial and intraspinal phlebitis and thrombophlebitis
+G09	Nervous system	#FFEF6C	Sequelae of inflammatory diseases of central nervous system
+G10	Nervous system	#FFEF6C	Huntington's disease
+G11	Nervous system	#FFEF6C	Hereditary ataxia
+G12	Nervous system	#FFEF6C	Spinal muscular atrophy and related syndromes
+G13	Nervous system	#FFEF6C	Systemic atrophies aff cnsl in diseases classd elswhr
+G14	Nervous system	#FFEF6C	Postpolio syndrome
+G15	Nervous system	#FFEF6C	NA
+G16	Nervous system	#FFEF6C	NA
+G17	Nervous system	#FFEF6C	NA
+G18	Nervous system	#FFEF6C	NA
+G19	Nervous system	#FFEF6C	NA
+G20	Nervous system	#FFEF6C	Parkinson's disease
+G21	Nervous system	#FFEF6C	Secondary parkinsonism
+G22	Nervous system	#FFEF6C	NA
+G23	Nervous system	#FFEF6C	Other degenerative diseases of basal ganglia
+G24	Nervous system	#FFEF6C	Dystonia
+G25	Nervous system	#FFEF6C	Other extrapyramidal and movement disorders
+G26	Nervous system	#FFEF6C	Extrapyramidal and movement disord in diseases classd elswhr Extrapyramidal and movement disorders in diseases classified elsewhere
+G27	Nervous system	#FFEF6C	NA
+G28	Nervous system	#FFEF6C	NA
+G29	Nervous system	#FFEF6C	NA
+G30	Nervous system	#FFEF6C	Alzheimer's disease
+G31	Nervous system	#FFEF6C	Oth degenerative diseases of nervous system, NEC
+G32	Nervous system	#FFEF6C	Oth degeneratv disord of nervous sys in dis classd elswhr
+G33	Nervous system	#FFEF6C	NA
+G34	Nervous system	#FFEF6C	NA
+G35	Nervous system	#FFEF6C	Multiple sclerosis
+G36	Nervous system	#FFEF6C	Other acute disseminated demyelination
+G37	Nervous system	#FFEF6C	Other demyelinating diseases of central nervous system
+G38	Nervous system	#FFEF6C	NA
+G39	Nervous system	#FFEF6C	NA
+G40	Nervous system	#FFEF6C	Epilepsy and recurrent seizures
+G41	Nervous system	#FFEF6C	NA
+G42	Nervous system	#FFEF6C	NA
+G43	Nervous system	#FFEF6C	Migraine
+G44	Nervous system	#FFEF6C	Other headache syndromes
+G45	Nervous system	#FFEF6C	Transient cerebral ischemic attacks and related syndromes
+G46	Nervous system	#FFEF6C	Vascular syndromes of brain in cerebrovascular diseases
+G47	Nervous system	#FFEF6C	Sleep disorders
+G48	Nervous system	#FFEF6C	NA
+G49	Nervous system	#FFEF6C	NA
+G50	Nervous system	#FFEF6C	Disorders of trigeminal nerve
+G51	Nervous system	#FFEF6C	Facial nerve disorders
+G52	Nervous system	#FFEF6C	Disorders of other cranial nerves
+G53	Nervous system	#FFEF6C	Cranial nerve disorders in diseases classified elsewhere
+G54	Nervous system	#FFEF6C	Nerve root and plexus disorders
+G55	Nervous system	#FFEF6C	Nerve root and plexus compressions in diseases classd elswhr Nerve root and plexus compressions in diseases classified elsewhere
+G56	Nervous system	#FFEF6C	Mononeuropathies of upper limb
+G57	Nervous system	#FFEF6C	Mononeuropathies of lower limb
+G58	Nervous system	#FFEF6C	Other mononeuropathies
+G59	Nervous system	#FFEF6C	Mononeuropathy in diseases classified elsewhere
+G60	Nervous system	#FFEF6C	Hereditary and idiopathic neuropathy
+G61	Nervous system	#FFEF6C	Inflammatory polyneuropathy
+G62	Nervous system	#FFEF6C	Other and unspecified polyneuropathies
+G63	Nervous system	#FFEF6C	Polyneuropathy in diseases classified elsewhere
+G64	Nervous system	#FFEF6C	Other disorders of peripheral nervous system
+G65	Nervous system	#FFEF6C	Sequelae of inflammatory and toxic polyneuropathies
+G66	Nervous system	#FFEF6C	NA
+G67	Nervous system	#FFEF6C	NA
+G68	Nervous system	#FFEF6C	NA
+G69	Nervous system	#FFEF6C	NA
+G70	Nervous system	#FFEF6C	Myasthenia gravis and other myoneural disorders
+G71	Nervous system	#FFEF6C	Primary disorders of muscles
+G72	Nervous system	#FFEF6C	Other and unspecified myopathies
+G73	Nervous system	#FFEF6C	Disord of myoneural junction and muscle in dis classd elswhr Disorders of myoneural junction and muscle in diseases classified elsewhere
+G74	Nervous system	#FFEF6C	NA
+G75	Nervous system	#FFEF6C	NA
+G76	Nervous system	#FFEF6C	NA
+G77	Nervous system	#FFEF6C	NA
+G78	Nervous system	#FFEF6C	NA
+G79	Nervous system	#FFEF6C	NA
+G80	Nervous system	#FFEF6C	Cerebral palsy
+G81	Nervous system	#FFEF6C	Hemiplegia and hemiparesis
+G82	Nervous system	#FFEF6C	Paraplegia (paraparesis) and quadriplegia (quadriparesis)
+G83	Nervous system	#FFEF6C	Other paralytic syndromes
+G84	Nervous system	#FFEF6C	NA
+G85	Nervous system	#FFEF6C	NA
+G86	Nervous system	#FFEF6C	NA
+G87	Nervous system	#FFEF6C	NA
+G88	Nervous system	#FFEF6C	NA
+G89	Nervous system	#FFEF6C	Pain, not elsewhere classified
+G90	Nervous system	#FFEF6C	Disorders of autonomic nervous system
+G91	Nervous system	#FFEF6C	Hydrocephalus
+G92	Nervous system	#FFEF6C	Toxic encephalopathy
+G93	Nervous system	#FFEF6C	Other disorders of brain
+G94	Nervous system	#FFEF6C	Other disorders of brain in diseases classified elsewhere
+G95	Nervous system	#FFEF6C	Other and unspecified diseases of spinal cord
+G96	Nervous system	#FFEF6C	Other disorders of central nervous system
+G97	Nervous system	#FFEF6C	Intraop and postproc comp and disorders of nervous sys, NEC
+G98	Nervous system	#FFEF6C	Other disorders of nervous system not elsewhere classified
+G99	Nervous system	#FFEF6C	Oth disorders of nervous system in diseases classd elswhr
+H00	Eye and adnexa	#CED75C	Hordeolum and chalazion
+H01	Eye and adnexa	#CED75C	Other inflammation of eyelid
+H02	Eye and adnexa	#CED75C	Other disorders of eyelid
+H03	Eye and adnexa	#CED75C	NA
+H04	Eye and adnexa	#CED75C	Disorders of lacrimal system
+H05	Eye and adnexa	#CED75C	Disorders of orbit
+H06	Eye and adnexa	#CED75C	NA
+H07	Eye and adnexa	#CED75C	NA
+H08	Eye and adnexa	#CED75C	NA
+H09	Eye and adnexa	#CED75C	NA
+H10	Eye and adnexa	#CED75C	Conjunctivitis
+H11	Eye and adnexa	#CED75C	Other disorders of conjunctiva
+H12	Eye and adnexa	#CED75C	NA
+H13	Eye and adnexa	#CED75C	NA
+H14	Eye and adnexa	#CED75C	NA
+H15	Eye and adnexa	#CED75C	Disorders of sclera
+H16	Eye and adnexa	#CED75C	Keratitis
+H17	Eye and adnexa	#CED75C	Corneal scars and opacities
+H18	Eye and adnexa	#CED75C	Other disorders of cornea
+H19	Eye and adnexa	#CED75C	NA
+H20	Eye and adnexa	#CED75C	Iridocyclitis
+H21	Eye and adnexa	#CED75C	Other disorders of iris and ciliary body
+H22	Eye and adnexa	#CED75C	Disorders of iris and ciliary body in diseases classd elswhr Disorders of iris and ciliary body in diseases classified elsewhere
+H23	Eye and adnexa	#CED75C	NA
+H24	Eye and adnexa	#CED75C	NA
+H25	Eye and adnexa	#CED75C	Age-related cataract
+H26	Eye and adnexa	#CED75C	Other cataract
+H27	Eye and adnexa	#CED75C	Other disorders of lens
+H28	Eye and adnexa	#CED75C	Cataract in diseases classified elsewhere
+H29	Eye and adnexa	#CED75C	NA
+H30	Eye and adnexa	#CED75C	Chorioretinal inflammation
+H31	Eye and adnexa	#CED75C	Other disorders of choroid
+H32	Eye and adnexa	#CED75C	Chorioretinal disorders in diseases classified elsewhere
+H33	Eye and adnexa	#CED75C	Retinal detachments and breaks
+H34	Eye and adnexa	#CED75C	Retinal vascular occlusions
+H35	Eye and adnexa	#CED75C	Other retinal disorders
+H36	Eye and adnexa	#CED75C	Retinal disorders in diseases classified elsewhere
+H37	Eye and adnexa	#CED75C	NA
+H38	Eye and adnexa	#CED75C	NA
+H39	Eye and adnexa	#CED75C	NA
+H40	Eye and adnexa	#CED75C	Glaucoma
+H41	Eye and adnexa	#CED75C	NA
+H42	Eye and adnexa	#CED75C	Glaucoma in diseases classified elsewhere
+H43	Eye and adnexa	#CED75C	Disorders of vitreous body
+H44	Eye and adnexa	#CED75C	Disorders of globe
+H45	Eye and adnexa	#CED75C	NA
+H46	Eye and adnexa	#CED75C	Optic neuritis
+H47	Eye and adnexa	#CED75C	Other disorders of optic [2nd] nerve and visual pathways
+H48	Eye and adnexa	#CED75C	NA
+H49	Eye and adnexa	#CED75C	Paralytic strabismus
+H50	Eye and adnexa	#CED75C	Other strabismus
+H51	Eye and adnexa	#CED75C	Other disorders of binocular movement
+H52	Eye and adnexa	#CED75C	Disorders of refraction and accommodation
+H53	Eye and adnexa	#CED75C	Visual disturbances
+H54	Eye and adnexa	#CED75C	Blindness and low vision
+H55	Eye and adnexa	#CED75C	Nystagmus and other irregular eye movements
+H56	Eye and adnexa	#CED75C	NA
+H57	Eye and adnexa	#CED75C	Other disorders of eye and adnexa
+H58	Eye and adnexa	#CED75C	NA
+H59	Eye and adnexa	#CED75C	Intraop and postproc comp and disord of eye and adnexa, NEC
+H60	Ear and mastoid process	#D2EFDB	Otitis externa
+H61	Ear and mastoid process	#D2EFDB	Other disorders of external ear
+H62	Ear and mastoid process	#D2EFDB	Disorders of external ear in diseases classified elsewhere
+H63	Ear and mastoid process	#D2EFDB	NA
+H64	Ear and mastoid process	#D2EFDB	NA
+H65	Ear and mastoid process	#D2EFDB	Nonsuppurative otitis media
+H66	Ear and mastoid process	#D2EFDB	Suppurative and unspecified otitis media
+H67	Ear and mastoid process	#D2EFDB	Otitis media in diseases classified elsewhere
+H68	Ear and mastoid process	#D2EFDB	Eustachian salpingitis and obstruction
+H69	Ear and mastoid process	#D2EFDB	Other and unspecified disorders of Eustachian tube
+H70	Ear and mastoid process	#D2EFDB	Mastoiditis and related conditions
+H71	Ear and mastoid process	#D2EFDB	Cholesteatoma of middle ear
+H72	Ear and mastoid process	#D2EFDB	Perforation of tympanic membrane
+H73	Ear and mastoid process	#D2EFDB	Other disorders of tympanic membrane
+H74	Ear and mastoid process	#D2EFDB	Other disorders of middle ear mastoid
+H75	Ear and mastoid process	#D2EFDB	Oth disord of mid ear and mastoid in diseases classd elswhr
+H76	Ear and mastoid process	#D2EFDB	NA
+H77	Ear and mastoid process	#D2EFDB	NA
+H78	Ear and mastoid process	#D2EFDB	NA
+H79	Ear and mastoid process	#D2EFDB	NA
+H80	Ear and mastoid process	#D2EFDB	Otosclerosis
+H81	Ear and mastoid process	#D2EFDB	Disorders of vestibular function
+H82	Ear and mastoid process	#D2EFDB	Vertiginous syndromes in diseases classified elsewhere
+H83	Ear and mastoid process	#D2EFDB	Other diseases of inner ear
+H84	Ear and mastoid process	#D2EFDB	NA
+H85	Ear and mastoid process	#D2EFDB	NA
+H86	Ear and mastoid process	#D2EFDB	NA
+H87	Ear and mastoid process	#D2EFDB	NA
+H88	Ear and mastoid process	#D2EFDB	NA
+H89	Ear and mastoid process	#D2EFDB	NA
+H90	Ear and mastoid process	#D2EFDB	Conductive and sensorineural hearing loss
+H91	Ear and mastoid process	#D2EFDB	Other and unspecified hearing loss
+H92	Ear and mastoid process	#D2EFDB	Otalgia and effusion of ear
+H93	Ear and mastoid process	#D2EFDB	Other disorders of ear, not elsewhere classified
+H94	Ear and mastoid process	#D2EFDB	Other disorders of ear in diseases classified elsewhere
+H95	Ear and mastoid process	#D2EFDB	Intraop and postproc comp and disorders of ear/mastd, NEC
+I00	Circulatory system	#A1CE5E	Rheumatic fever without heart involvement
+I01	Circulatory system	#A1CE5E	Rheumatic fever with heart involvement
+I02	Circulatory system	#A1CE5E	Rheumatic chorea
+I03	Circulatory system	#A1CE5E	NA
+I04	Circulatory system	#A1CE5E	NA
+I05	Circulatory system	#A1CE5E	Rheumatic mitral valve diseases
+I06	Circulatory system	#A1CE5E	Rheumatic aortic valve diseases
+I07	Circulatory system	#A1CE5E	Rheumatic tricuspid valve diseases
+I08	Circulatory system	#A1CE5E	Multiple valve diseases
+I09	Circulatory system	#A1CE5E	Other rheumatic heart diseases
+I10	Circulatory system	#A1CE5E	Essential (primary) hypertension
+I11	Circulatory system	#A1CE5E	Hypertensive heart disease
+I12	Circulatory system	#A1CE5E	Hypertensive chronic kidney disease
+I13	Circulatory system	#A1CE5E	Hypertensive heart and chronic kidney disease
+I14	Circulatory system	#A1CE5E	NA
+I15	Circulatory system	#A1CE5E	Secondary hypertension
+I16	Circulatory system	#A1CE5E	Hypertensive crisis
+I17	Circulatory system	#A1CE5E	NA
+I18	Circulatory system	#A1CE5E	NA
+I19	Circulatory system	#A1CE5E	NA
+I20	Circulatory system	#A1CE5E	Angina pectoris
+I21	Circulatory system	#A1CE5E	Acute myocardial infarction
+I22	Circulatory system	#A1CE5E	Subsequent STEMI & NSTEMI mocard infrc
+I23	Circulatory system	#A1CE5E	Certain crnt comp fol STEMI & NSTEMI mocard infrc <= 28 day
+I24	Circulatory system	#A1CE5E	Other acute ischemic heart diseases
+I25	Circulatory system	#A1CE5E	Chronic ischemic heart disease
+I26	Circulatory system	#A1CE5E	Pulmonary embolism
+I27	Circulatory system	#A1CE5E	Other pulmonary heart diseases
+I28	Circulatory system	#A1CE5E	Other diseases of pulmonary vessels
+I29	Circulatory system	#A1CE5E	NA
+I30	Circulatory system	#A1CE5E	Acute pericarditis
+I31	Circulatory system	#A1CE5E	Other diseases of pericardium
+I32	Circulatory system	#A1CE5E	Pericarditis in diseases classified elsewhere
+I33	Circulatory system	#A1CE5E	Acute and subacute endocarditis
+I34	Circulatory system	#A1CE5E	Nonrheumatic mitral valve disorders
+I35	Circulatory system	#A1CE5E	Nonrheumatic aortic valve disorders
+I36	Circulatory system	#A1CE5E	Nonrheumatic tricuspid valve disorders
+I37	Circulatory system	#A1CE5E	Nonrheumatic pulmonary valve disorders
+I38	Circulatory system	#A1CE5E	Endocarditis, valve unspecified
+I39	Circulatory system	#A1CE5E	Endocarditis and heart valve disord in dis classd elswhr
+I40	Circulatory system	#A1CE5E	Acute myocarditis
+I41	Circulatory system	#A1CE5E	Myocarditis in diseases classified elsewhere
+I42	Circulatory system	#A1CE5E	Cardiomyopathy
+I43	Circulatory system	#A1CE5E	Cardiomyopathy in diseases classified elsewhere
+I44	Circulatory system	#A1CE5E	Atrioventricular and left bundle-branch block
+I45	Circulatory system	#A1CE5E	Other conduction disorders
+I46	Circulatory system	#A1CE5E	Cardiac arrest
+I47	Circulatory system	#A1CE5E	Paroxysmal tachycardia
+I48	Circulatory system	#A1CE5E	Atrial fibrillation and flutter
+I49	Circulatory system	#A1CE5E	Other cardiac arrhythmias
+I50	Circulatory system	#A1CE5E	Heart failure
+I51	Circulatory system	#A1CE5E	Complications and ill-defined descriptions of heart disease
+I52	Circulatory system	#A1CE5E	Other heart disorders in diseases classified elsewhere
+I53	Circulatory system	#A1CE5E	NA
+I54	Circulatory system	#A1CE5E	NA
+I55	Circulatory system	#A1CE5E	NA
+I56	Circulatory system	#A1CE5E	NA
+I57	Circulatory system	#A1CE5E	NA
+I58	Circulatory system	#A1CE5E	NA
+I59	Circulatory system	#A1CE5E	NA
+I60	Circulatory system	#A1CE5E	Nontraumatic subarachnoid hemorrhage
+I61	Circulatory system	#A1CE5E	Nontraumatic intracerebral hemorrhage
+I62	Circulatory system	#A1CE5E	Other and unspecified nontraumatic intracranial hemorrhage
+I63	Circulatory system	#A1CE5E	Cerebral infarction
+I64	Circulatory system	#A1CE5E	NA
+I65	Circulatory system	#A1CE5E	Occls and stenosis of precerb art, not rslt in cereb infrc
+I66	Circulatory system	#A1CE5E	Occls and stenosis of cereb art, not rslt in cerebral infrc
+I67	Circulatory system	#A1CE5E	Other cerebrovascular diseases
+I68	Circulatory system	#A1CE5E	Cerebrovascular disorders in diseases classified elsewhere
+I69	Circulatory system	#A1CE5E	Sequelae of cerebrovascular disease
+I70	Circulatory system	#A1CE5E	Atherosclerosis
+I71	Circulatory system	#A1CE5E	Aortic aneurysm and dissection
+I72	Circulatory system	#A1CE5E	Other aneurysm
+I73	Circulatory system	#A1CE5E	Other peripheral vascular diseases
+I74	Circulatory system	#A1CE5E	Arterial embolism and thrombosis
+I75	Circulatory system	#A1CE5E	Atheroembolism
+I76	Circulatory system	#A1CE5E	Septic arterial embolism
+I77	Circulatory system	#A1CE5E	Other disorders of arteries and arterioles
+I78	Circulatory system	#A1CE5E	Diseases of capillaries
+I79	Circulatory system	#A1CE5E	Disord of art, arterioles and capilare in dis classd elswhr
+I80	Circulatory system	#A1CE5E	Phlebitis and thrombophlebitis
+I81	Circulatory system	#A1CE5E	Portal vein thrombosis
+I82	Circulatory system	#A1CE5E	Other venous embolism and thrombosis
+I83	Circulatory system	#A1CE5E	Varicose veins of lower extremities
+I84	Circulatory system	#A1CE5E	NA
+I85	Circulatory system	#A1CE5E	Esophageal varices
+I86	Circulatory system	#A1CE5E	Varicose veins of other sites
+I87	Circulatory system	#A1CE5E	Other disorders of veins
+I88	Circulatory system	#A1CE5E	Nonspecific lymphadenitis
+I89	Circulatory system	#A1CE5E	Oth noninfective disorders of lymphatic vessels and nodes
+I90	Circulatory system	#A1CE5E	NA
+I91	Circulatory system	#A1CE5E	NA
+I92	Circulatory system	#A1CE5E	NA
+I93	Circulatory system	#A1CE5E	NA
+I94	Circulatory system	#A1CE5E	NA
+I95	Circulatory system	#A1CE5E	Hypotension
+I96	Circulatory system	#A1CE5E	Gangrene, not elsewhere classified
+I97	Circulatory system	#A1CE5E	Intraop and postproc comp and disorders of circ sys, NEC
+I98	Circulatory system	#A1CE5E	NA
+I99	Circulatory system	#A1CE5E	Other and unspecified disorders of circulatory system
+J00	Respiratory system	#1A86A8	Acute nasopharyngitis [common cold]
+J01	Respiratory system	#1A86A8	Acute sinusitis
+J02	Respiratory system	#1A86A8	Acute pharyngitis
+J03	Respiratory system	#1A86A8	Acute tonsillitis
+J04	Respiratory system	#1A86A8	Acute laryngitis and tracheitis
+J05	Respiratory system	#1A86A8	Acute obstructive laryngitis [croup] and epiglottitis
+J06	Respiratory system	#1A86A8	Acute upper resp infections of multiple and unsp sites
+J07	Respiratory system	#1A86A8	NA
+J08	Respiratory system	#1A86A8	NA
+J09	Respiratory system	#1A86A8	Influenza due to certain identified influenza viruses
+J10	Respiratory system	#1A86A8	Influenza due to other identified influenza virus
+J11	Respiratory system	#1A86A8	Influenza due to unidentified influenza virus
+J12	Respiratory system	#1A86A8	Viral pneumonia, not elsewhere classified
+J13	Respiratory system	#1A86A8	Pneumonia due to Streptococcus pneumoniae
+J14	Respiratory system	#1A86A8	Pneumonia due to Hemophilus influenzae
+J15	Respiratory system	#1A86A8	Bacterial pneumonia, not elsewhere classified
+J16	Respiratory system	#1A86A8	Pneumonia due to oth infectious organisms, NEC
+J17	Respiratory system	#1A86A8	Pneumonia in diseases classified elsewhere
+J18	Respiratory system	#1A86A8	Pneumonia, unspecified organism
+J19	Respiratory system	#1A86A8	NA
+J20	Respiratory system	#1A86A8	Acute bronchitis
+J21	Respiratory system	#1A86A8	Acute bronchiolitis
+J22	Respiratory system	#1A86A8	Unspecified acute lower respiratory infection
+J23	Respiratory system	#1A86A8	NA
+J24	Respiratory system	#1A86A8	NA
+J25	Respiratory system	#1A86A8	NA
+J26	Respiratory system	#1A86A8	NA
+J27	Respiratory system	#1A86A8	NA
+J28	Respiratory system	#1A86A8	NA
+J29	Respiratory system	#1A86A8	NA
+J30	Respiratory system	#1A86A8	Vasomotor and allergic rhinitis
+J31	Respiratory system	#1A86A8	Chronic rhinitis, nasopharyngitis and pharyngitis
+J32	Respiratory system	#1A86A8	Chronic sinusitis
+J33	Respiratory system	#1A86A8	Nasal polyp
+J34	Respiratory system	#1A86A8	Other and unspecified disorders of nose and nasal sinuses
+J35	Respiratory system	#1A86A8	Chronic diseases of tonsils and adenoids
+J36	Respiratory system	#1A86A8	Peritonsillar abscess
+J37	Respiratory system	#1A86A8	Chronic laryngitis and laryngotracheitis
+J38	Respiratory system	#1A86A8	Diseases of vocal cords and larynx, not elsewhere classified Diseases of vocal cords and larynx, not elsewhere classified
+J39	Respiratory system	#1A86A8	Other diseases of upper respiratory tract
+J40	Respiratory system	#1A86A8	Bronchitis, not specified as acute or chronic
+J41	Respiratory system	#1A86A8	Simple and mucopurulent chronic bronchitis
+J42	Respiratory system	#1A86A8	Unspecified chronic bronchitis
+J43	Respiratory system	#1A86A8	Emphysema
+J44	Respiratory system	#1A86A8	Other chronic obstructive pulmonary disease
+J45	Respiratory system	#1A86A8	Asthma
+J46	Respiratory system	#1A86A8	NA
+J47	Respiratory system	#1A86A8	Bronchiectasis
+J48	Respiratory system	#1A86A8	NA
+J49	Respiratory system	#1A86A8	NA
+J50	Respiratory system	#1A86A8	NA
+J51	Respiratory system	#1A86A8	NA
+J52	Respiratory system	#1A86A8	NA
+J53	Respiratory system	#1A86A8	NA
+J54	Respiratory system	#1A86A8	NA
+J55	Respiratory system	#1A86A8	NA
+J56	Respiratory system	#1A86A8	NA
+J57	Respiratory system	#1A86A8	NA
+J58	Respiratory system	#1A86A8	NA
+J59	Respiratory system	#1A86A8	NA
+J60	Respiratory system	#1A86A8	Coalworker's pneumoconiosis
+J61	Respiratory system	#1A86A8	Pneumoconiosis due to asbestos and other mineral fibers
+J62	Respiratory system	#1A86A8	Pneumoconiosis due to dust containing silica
+J63	Respiratory system	#1A86A8	Pneumoconiosis due to other inorganic dusts
+J64	Respiratory system	#1A86A8	Unspecified pneumoconiosis
+J65	Respiratory system	#1A86A8	Pneumoconiosis associated with tuberculosis
+J66	Respiratory system	#1A86A8	Airway disease due to specific organic dust
+J67	Respiratory system	#1A86A8	Hypersensitivity pneumonitis due to organic dust
+J68	Respiratory system	#1A86A8	Resp cond d/t inhalation of chemicals, gas, fumes and vapors Respiratory conditions due to inhalation of chemicals, gases, fumes and vapors
+J69	Respiratory system	#1A86A8	Pneumonitis due to solids and liquids
+J70	Respiratory system	#1A86A8	Respiratory conditions due to other external agents
+J71	Respiratory system	#1A86A8	NA
+J72	Respiratory system	#1A86A8	NA
+J73	Respiratory system	#1A86A8	NA
+J74	Respiratory system	#1A86A8	NA
+J75	Respiratory system	#1A86A8	NA
+J76	Respiratory system	#1A86A8	NA
+J77	Respiratory system	#1A86A8	NA
+J78	Respiratory system	#1A86A8	NA
+J79	Respiratory system	#1A86A8	NA
+J80	Respiratory system	#1A86A8	Acute respiratory distress syndrome
+J81	Respiratory system	#1A86A8	Pulmonary edema
+J82	Respiratory system	#1A86A8	Pulmonary eosinophilia, not elsewhere classified
+J83	Respiratory system	#1A86A8	NA
+J84	Respiratory system	#1A86A8	Other interstitial pulmonary diseases
+J85	Respiratory system	#1A86A8	Abscess of lung and mediastinum
+J86	Respiratory system	#1A86A8	Pyothorax
+J87	Respiratory system	#1A86A8	NA
+J88	Respiratory system	#1A86A8	NA
+J89	Respiratory system	#1A86A8	NA
+J90	Respiratory system	#1A86A8	Pleural effusion, not elsewhere classified
+J91	Respiratory system	#1A86A8	Pleural effusion in conditions classified elsewhere
+J92	Respiratory system	#1A86A8	Pleural plaque
+J93	Respiratory system	#1A86A8	Pneumothorax and air leak
+J94	Respiratory system	#1A86A8	Other pleural conditions
+J95	Respiratory system	#1A86A8	Intraop and postproc comp and disorders of resp sys, NEC
+J96	Respiratory system	#1A86A8	Respiratory failure, not elsewhere classified
+J97	Respiratory system	#1A86A8	NA
+J98	Respiratory system	#1A86A8	Other respiratory disorders
+J99	Respiratory system	#1A86A8	Respiratory disorders in diseases classified elsewhere
+K00	Digestive system	#00619C	Disorders of tooth development and eruption
+K01	Digestive system	#00619C	Embedded and impacted teeth
+K02	Digestive system	#00619C	Dental caries
+K03	Digestive system	#00619C	Other diseases of hard tissues of teeth
+K04	Digestive system	#00619C	Diseases of pulp and periapical tissues
+K05	Digestive system	#00619C	Gingivitis and periodontal diseases
+K06	Digestive system	#00619C	Other disorders of gingiva and edentulous alveolar ridge
+K07	Digestive system	#00619C	NA
+K08	Digestive system	#00619C	Other disorders of teeth and supporting structures
+K09	Digestive system	#00619C	Cysts of oral region, not elsewhere classified
+K10	Digestive system	#00619C	NA
+K11	Digestive system	#00619C	Diseases of salivary glands
+K12	Digestive system	#00619C	Stomatitis and related lesions
+K13	Digestive system	#00619C	Other diseases of lip and oral mucosa
+K14	Digestive system	#00619C	Diseases of tongue
+K15	Digestive system	#00619C	NA
+K16	Digestive system	#00619C	NA
+K17	Digestive system	#00619C	NA
+K18	Digestive system	#00619C	NA
+K19	Digestive system	#00619C	NA
+K20	Digestive system	#00619C	Esophagitis
+K21	Digestive system	#00619C	Gastro-esophageal reflux disease
+K22	Digestive system	#00619C	Other diseases of esophagus
+K23	Digestive system	#00619C	Disorders of esophagus in diseases classified elsewhere
+K24	Digestive system	#00619C	NA
+K25	Digestive system	#00619C	Gastric ulcer
+K26	Digestive system	#00619C	Duodenal ulcer
+K27	Digestive system	#00619C	Peptic ulcer, site unspecified
+K28	Digestive system	#00619C	Gastrojejunal ulcer
+K29	Digestive system	#00619C	Gastritis and duodenitis
+K30	Digestive system	#00619C	Functional dyspepsia
+K31	Digestive system	#00619C	Other diseases of stomach and duodenum
+K32	Digestive system	#00619C	NA
+K33	Digestive system	#00619C	NA
+K34	Digestive system	#00619C	NA
+K35	Digestive system	#00619C	Acute appendicitis
+K36	Digestive system	#00619C	Other appendicitis
+K37	Digestive system	#00619C	Unspecified appendicitis
+K38	Digestive system	#00619C	Other diseases of appendix
+K39	Digestive system	#00619C	NA
+K40	Digestive system	#00619C	Inguinal hernia
+K41	Digestive system	#00619C	Femoral hernia
+K42	Digestive system	#00619C	Umbilical hernia
+K43	Digestive system	#00619C	Ventral hernia
+K44	Digestive system	#00619C	Diaphragmatic hernia
+K45	Digestive system	#00619C	Other abdominal hernia
+K46	Digestive system	#00619C	Unspecified abdominal hernia
+K47	Digestive system	#00619C	NA
+K48	Digestive system	#00619C	NA
+K49	Digestive system	#00619C	NA
+K50	Digestive system	#00619C	Crohn's disease [regional enteritis]
+K51	Digestive system	#00619C	Ulcerative colitis
+K52	Digestive system	#00619C	Other and unsp noninfective gastroenteritis and colitis
+K53	Digestive system	#00619C	NA
+K54	Digestive system	#00619C	NA
+K55	Digestive system	#00619C	Vascular disorders of intestine
+K56	Digestive system	#00619C	Paralytic ileus and intestinal obstruction without hernia
+K57	Digestive system	#00619C	Diverticular disease of intestine
+K58	Digestive system	#00619C	Irritable bowel syndrome
+K59	Digestive system	#00619C	Other functional intestinal disorders
+K60	Digestive system	#00619C	Fissure and fistula of anal and rectal regions
+K61	Digestive system	#00619C	Abscess of anal and rectal regions
+K62	Digestive system	#00619C	Other diseases of anus and rectum
+K63	Digestive system	#00619C	Other diseases of intestine
+K64	Digestive system	#00619C	Hemorrhoids and perianal venous thrombosis
+K65	Digestive system	#00619C	Peritonitis
+K66	Digestive system	#00619C	Other disorders of peritoneum
+K67	Digestive system	#00619C	Disorders of peritoneum in infectious diseases classd elswhr Disorders of peritoneum in infectious diseases classified elsewhere
+K68	Digestive system	#00619C	Disorders of retroperitoneum
+K69	Digestive system	#00619C	NA
+K70	Digestive system	#00619C	Alcoholic liver disease
+K71	Digestive system	#00619C	Toxic liver disease
+K72	Digestive system	#00619C	Hepatic failure, not elsewhere classified
+K73	Digestive system	#00619C	Chronic hepatitis, not elsewhere classified
+K74	Digestive system	#00619C	Fibrosis and cirrhosis of liver
+K75	Digestive system	#00619C	Other inflammatory liver diseases
+K76	Digestive system	#00619C	Other diseases of liver
+K77	Digestive system	#00619C	Liver disorders in diseases classified elsewhere
+K78	Digestive system	#00619C	NA
+K79	Digestive system	#00619C	NA
+K80	Digestive system	#00619C	Cholelithiasis
+K81	Digestive system	#00619C	Cholecystitis
+K82	Digestive system	#00619C	Other diseases of gallbladder
+K83	Digestive system	#00619C	Other diseases of biliary tract
+K84	Digestive system	#00619C	NA
+K85	Digestive system	#00619C	Acute pancreatitis
+K86	Digestive system	#00619C	Other diseases of pancreas
+K87	Digestive system	#00619C	Disord of GB, biliary trac and pancreas in dis classd elswhr Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere
+K88	Digestive system	#00619C	NA
+K89	Digestive system	#00619C	NA
+K90	Digestive system	#00619C	Intestinal malabsorption
+K91	Digestive system	#00619C	Intraop and postproc comp and disorders of dgstv sys, NEC
+K92	Digestive system	#00619C	Other diseases of digestive system
+K93	Digestive system	#00619C	NA
+L00	Skin and subcutaneous tissue	#0065A9	Staphylococcal scalded skin syndrome
+L01	Skin and subcutaneous tissue	#0065A9	Impetigo
+L02	Skin and subcutaneous tissue	#0065A9	Cutaneous abscess, furuncle and carbuncle
+L03	Skin and subcutaneous tissue	#0065A9	Cellulitis and acute lymphangitis
+L04	Skin and subcutaneous tissue	#0065A9	Acute lymphadenitis
+L05	Skin and subcutaneous tissue	#0065A9	Pilonidal cyst and sinus
+L06	Skin and subcutaneous tissue	#0065A9	NA
+L07	Skin and subcutaneous tissue	#0065A9	NA
+L08	Skin and subcutaneous tissue	#0065A9	Other local infections of skin and subcutaneous tissue
+L09	Skin and subcutaneous tissue	#0065A9	NA
+L10	Skin and subcutaneous tissue	#0065A9	Pemphigus
+L11	Skin and subcutaneous tissue	#0065A9	Other acantholytic disorders
+L12	Skin and subcutaneous tissue	#0065A9	Pemphigoid
+L13	Skin and subcutaneous tissue	#0065A9	Other bullous disorders
+L14	Skin and subcutaneous tissue	#0065A9	Bullous disorders in diseases classified elsewhere
+L15	Skin and subcutaneous tissue	#0065A9	NA
+L16	Skin and subcutaneous tissue	#0065A9	NA
+L17	Skin and subcutaneous tissue	#0065A9	NA
+L18	Skin and subcutaneous tissue	#0065A9	NA
+L19	Skin and subcutaneous tissue	#0065A9	NA
+L20	Skin and subcutaneous tissue	#0065A9	Atopic dermatitis
+L21	Skin and subcutaneous tissue	#0065A9	Seborrheic dermatitis
+L22	Skin and subcutaneous tissue	#0065A9	Diaper dermatitis
+L23	Skin and subcutaneous tissue	#0065A9	Allergic contact dermatitis
+L24	Skin and subcutaneous tissue	#0065A9	Irritant contact dermatitis
+L25	Skin and subcutaneous tissue	#0065A9	Unspecified contact dermatitis
+L26	Skin and subcutaneous tissue	#0065A9	Exfoliative dermatitis
+L27	Skin and subcutaneous tissue	#0065A9	Dermatitis due to substances taken internally
+L28	Skin and subcutaneous tissue	#0065A9	Lichen simplex chronicus and prurigo
+L29	Skin and subcutaneous tissue	#0065A9	Pruritus
+L30	Skin and subcutaneous tissue	#0065A9	Other and unspecified dermatitis
+L31	Skin and subcutaneous tissue	#0065A9	NA
+L32	Skin and subcutaneous tissue	#0065A9	NA
+L33	Skin and subcutaneous tissue	#0065A9	NA
+L34	Skin and subcutaneous tissue	#0065A9	NA
+L35	Skin and subcutaneous tissue	#0065A9	NA
+L36	Skin and subcutaneous tissue	#0065A9	NA
+L37	Skin and subcutaneous tissue	#0065A9	NA
+L38	Skin and subcutaneous tissue	#0065A9	NA
+L39	Skin and subcutaneous tissue	#0065A9	NA
+L40	Skin and subcutaneous tissue	#0065A9	Psoriasis
+L41	Skin and subcutaneous tissue	#0065A9	Parapsoriasis
+L42	Skin and subcutaneous tissue	#0065A9	Pityriasis rosea
+L43	Skin and subcutaneous tissue	#0065A9	Lichen planus
+L44	Skin and subcutaneous tissue	#0065A9	Other papulosquamous disorders
+L45	Skin and subcutaneous tissue	#0065A9	Papulosquamous disorders in diseases classified elsewhere
+L46	Skin and subcutaneous tissue	#0065A9	NA
+L47	Skin and subcutaneous tissue	#0065A9	NA
+L48	Skin and subcutaneous tissue	#0065A9	NA
+L49	Skin and subcutaneous tissue	#0065A9	Exfoliatn due to erythemat cond accord extent body involv
+L50	Skin and subcutaneous tissue	#0065A9	Urticaria
+L51	Skin and subcutaneous tissue	#0065A9	Erythema multiforme
+L52	Skin and subcutaneous tissue	#0065A9	Erythema nodosum
+L53	Skin and subcutaneous tissue	#0065A9	Other erythematous conditions
+L54	Skin and subcutaneous tissue	#0065A9	Erythema in diseases classified elsewhere
+L55	Skin and subcutaneous tissue	#0065A9	Sunburn
+L56	Skin and subcutaneous tissue	#0065A9	Other acute skin changes due to ultraviolet radiation
+L57	Skin and subcutaneous tissue	#0065A9	Skin changes due to chronic expsr to nonionizing radiation
+L58	Skin and subcutaneous tissue	#0065A9	Radiodermatitis
+L59	Skin and subcutaneous tissue	#0065A9	Oth disorders of skin, subcu related to radiation
+L60	Skin and subcutaneous tissue	#0065A9	Nail disorders
+L61	Skin and subcutaneous tissue	#0065A9	NA
+L62	Skin and subcutaneous tissue	#0065A9	Nail disorders in diseases classified elsewhere
+L63	Skin and subcutaneous tissue	#0065A9	Alopecia areata
+L64	Skin and subcutaneous tissue	#0065A9	Androgenic alopecia
+L65	Skin and subcutaneous tissue	#0065A9	Other nonscarring hair loss
+L66	Skin and subcutaneous tissue	#0065A9	Cicatricial alopecia [scarring hair loss]
+L67	Skin and subcutaneous tissue	#0065A9	Hair color and hair shaft abnormalities
+L68	Skin and subcutaneous tissue	#0065A9	Hypertrichosis
+L69	Skin and subcutaneous tissue	#0065A9	NA
+L70	Skin and subcutaneous tissue	#0065A9	Acne
+L71	Skin and subcutaneous tissue	#0065A9	Rosacea
+L72	Skin and subcutaneous tissue	#0065A9	Follicular cysts of skin and subcutaneous tissue
+L73	Skin and subcutaneous tissue	#0065A9	Other follicular disorders
+L74	Skin and subcutaneous tissue	#0065A9	Eccrine sweat disorders
+L75	Skin and subcutaneous tissue	#0065A9	Apocrine sweat disorders
+L76	Skin and subcutaneous tissue	#0065A9	Intraop and postprocedural complications of skin, subcu
+L77	Skin and subcutaneous tissue	#0065A9	NA
+L78	Skin and subcutaneous tissue	#0065A9	NA
+L79	Skin and subcutaneous tissue	#0065A9	NA
+L80	Skin and subcutaneous tissue	#0065A9	Vitiligo
+L81	Skin and subcutaneous tissue	#0065A9	Other disorders of pigmentation
+L82	Skin and subcutaneous tissue	#0065A9	Seborrheic keratosis
+L83	Skin and subcutaneous tissue	#0065A9	Acanthosis nigricans
+L84	Skin and subcutaneous tissue	#0065A9	Corns and callosities
+L85	Skin and subcutaneous tissue	#0065A9	Other epidermal thickening
+L86	Skin and subcutaneous tissue	#0065A9	Keratoderma in diseases classified elsewhere
+L87	Skin and subcutaneous tissue	#0065A9	Transepidermal elimination disorders
+L88	Skin and subcutaneous tissue	#0065A9	Pyoderma gangrenosum
+L89	Skin and subcutaneous tissue	#0065A9	Pressure ulcer
+L90	Skin and subcutaneous tissue	#0065A9	Atrophic disorders of skin
+L91	Skin and subcutaneous tissue	#0065A9	Hypertrophic disorders of skin
+L92	Skin and subcutaneous tissue	#0065A9	Granulomatous disorders of skin and subcutaneous tissue
+L93	Skin and subcutaneous tissue	#0065A9	Lupus erythematosus
+L94	Skin and subcutaneous tissue	#0065A9	Other localized connective tissue disorders
+L95	Skin and subcutaneous tissue	#0065A9	Vasculitis limited to skin, not elsewhere classified
+L96	Skin and subcutaneous tissue	#0065A9	NA
+L97	Skin and subcutaneous tissue	#0065A9	Non-pressure chronic ulcer of lower limb, NEC
+L98	Skin and subcutaneous tissue	#0065A9	Oth disorders of skin, subcu, not elsewhere classified
+L99	Skin and subcutaneous tissue	#0065A9	Oth disorders of skin, subcu in diseases classd elswhr
+M00	Musculoskeletal system and connective tissue	#002B54	Pyogenic arthritis
+M01	Musculoskeletal system and connective tissue	#002B54	Direct infect of joint in infec/parastc dis classd elswhr
+M02	Musculoskeletal system and connective tissue	#002B54	Postinfective and reactive arthropathies
+M03	Musculoskeletal system and connective tissue	#002B54	NA
+M04	Musculoskeletal system and connective tissue	#002B54	Autoinflammatory syndromes
+M05	Musculoskeletal system and connective tissue	#002B54	Rheumatoid arthritis with rheumatoid factor
+M06	Musculoskeletal system and connective tissue	#002B54	Other rheumatoid arthritis
+M07	Musculoskeletal system and connective tissue	#002B54	Enteropathic arthropathies
+M08	Musculoskeletal system and connective tissue	#002B54	Juvenile arthritis
+M09	Musculoskeletal system and connective tissue	#002B54	NA
+M10	Musculoskeletal system and connective tissue	#002B54	Gout
+M11	Musculoskeletal system and connective tissue	#002B54	Other crystal arthropathies
+M12	Musculoskeletal system and connective tissue	#002B54	Other and unspecified arthropathy
+M13	Musculoskeletal system and connective tissue	#002B54	Other arthritis
+M14	Musculoskeletal system and connective tissue	#002B54	Arthropathies in other diseases classified elsewhere
+M15	Musculoskeletal system and connective tissue	#002B54	Polyosteoarthritis
+M16	Musculoskeletal system and connective tissue	#002B54	Osteoarthritis of hip
+M17	Musculoskeletal system and connective tissue	#002B54	Osteoarthritis of knee
+M18	Musculoskeletal system and connective tissue	#002B54	Osteoarthritis of first carpometacarpal joint
+M19	Musculoskeletal system and connective tissue	#002B54	Other and unspecified osteoarthritis
+M20	Musculoskeletal system and connective tissue	#002B54	Acquired deformities of fingers and toes
+M21	Musculoskeletal system and connective tissue	#002B54	Other acquired deformities of limbs
+M22	Musculoskeletal system and connective tissue	#002B54	Disorder of patella
+M23	Musculoskeletal system and connective tissue	#002B54	Internal derangement of knee
+M24	Musculoskeletal system and connective tissue	#002B54	Other specific joint derangements
+M25	Musculoskeletal system and connective tissue	#002B54	Other joint disorder, not elsewhere classified
+M26	Musculoskeletal system and connective tissue	#002B54	Dentofacial anomalies [including malocclusion]
+M27	Musculoskeletal system and connective tissue	#002B54	Other diseases of jaws
+M28	Musculoskeletal system and connective tissue	#002B54	NA
+M29	Musculoskeletal system and connective tissue	#002B54	NA
+M30	Musculoskeletal system and connective tissue	#002B54	Polyarteritis nodosa and related conditions
+M31	Musculoskeletal system and connective tissue	#002B54	Other necrotizing vasculopathies
+M32	Musculoskeletal system and connective tissue	#002B54	Systemic lupus erythematosus (SLE)
+M33	Musculoskeletal system and connective tissue	#002B54	Dermatopolymyositis
+M34	Musculoskeletal system and connective tissue	#002B54	Systemic sclerosis [scleroderma]
+M35	Musculoskeletal system and connective tissue	#002B54	Other systemic involvement of connective tissue
+M36	Musculoskeletal system and connective tissue	#002B54	Systemic disorders of conn tiss in diseases classd elswhr
+M37	Musculoskeletal system and connective tissue	#002B54	NA
+M38	Musculoskeletal system and connective tissue	#002B54	NA
+M39	Musculoskeletal system and connective tissue	#002B54	NA
+M40	Musculoskeletal system and connective tissue	#002B54	Kyphosis and lordosis
+M41	Musculoskeletal system and connective tissue	#002B54	Scoliosis
+M42	Musculoskeletal system and connective tissue	#002B54	Spinal osteochondrosis
+M43	Musculoskeletal system and connective tissue	#002B54	Other deforming dorsopathies
+M44	Musculoskeletal system and connective tissue	#002B54	NA
+M45	Musculoskeletal system and connective tissue	#002B54	Ankylosing spondylitis
+M46	Musculoskeletal system and connective tissue	#002B54	Other inflammatory spondylopathies
+M47	Musculoskeletal system and connective tissue	#002B54	Spondylosis
+M48	Musculoskeletal system and connective tissue	#002B54	Other spondylopathies
+M49	Musculoskeletal system and connective tissue	#002B54	Spondylopathies in diseases classified elsewhere
+M50	Musculoskeletal system and connective tissue	#002B54	Cervical disc disorders
+M51	Musculoskeletal system and connective tissue	#002B54	Thoracic, thoracolum, and lumbosacral intvrt disc disorders
+M52	Musculoskeletal system and connective tissue	#002B54	NA
+M53	Musculoskeletal system and connective tissue	#002B54	Other and unspecified dorsopathies, not elsewhere classified Other and unspecified dorsopathies, not elsewhere classified
+M54	Musculoskeletal system and connective tissue	#002B54	Dorsalgia
+M55	Musculoskeletal system and connective tissue	#002B54	NA
+M56	Musculoskeletal system and connective tissue	#002B54	NA
+M57	Musculoskeletal system and connective tissue	#002B54	NA
+M58	Musculoskeletal system and connective tissue	#002B54	NA
+M59	Musculoskeletal system and connective tissue	#002B54	NA
+M60	Musculoskeletal system and connective tissue	#002B54	Myositis
+M61	Musculoskeletal system and connective tissue	#002B54	Calcification and ossification of muscle
+M62	Musculoskeletal system and connective tissue	#002B54	Other disorders of muscle
+M63	Musculoskeletal system and connective tissue	#002B54	Disorders of muscle in diseases classified elsewhere
+M64	Musculoskeletal system and connective tissue	#002B54	NA
+M65	Musculoskeletal system and connective tissue	#002B54	Synovitis and tenosynovitis
+M66	Musculoskeletal system and connective tissue	#002B54	Spontaneous rupture of synovium and tendon
+M67	Musculoskeletal system and connective tissue	#002B54	Other disorders of synovium and tendon
+M68	Musculoskeletal system and connective tissue	#002B54	NA
+M69	Musculoskeletal system and connective tissue	#002B54	NA
+M70	Musculoskeletal system and connective tissue	#002B54	Soft tissue disorders related to use, overuse and pressure
+M71	Musculoskeletal system and connective tissue	#002B54	Other bursopathies
+M72	Musculoskeletal system and connective tissue	#002B54	Fibroblastic disorders
+M73	Musculoskeletal system and connective tissue	#002B54	NA
+M74	Musculoskeletal system and connective tissue	#002B54	NA
+M75	Musculoskeletal system and connective tissue	#002B54	Shoulder lesions
+M76	Musculoskeletal system and connective tissue	#002B54	Enthesopathies, lower limb, excluding foot
+M77	Musculoskeletal system and connective tissue	#002B54	Other enthesopathies
+M78	Musculoskeletal system and connective tissue	#002B54	NA
+M79	Musculoskeletal system and connective tissue	#002B54	Oth and unsp soft tissue disorders, not elsewhere classified Other and unspecified soft tissue disorders, not elsewhere classified
+M80	Musculoskeletal system and connective tissue	#002B54	Osteoporosis with current pathological fracture
+M81	Musculoskeletal system and connective tissue	#002B54	Osteoporosis without current pathological fracture
+M82	Musculoskeletal system and connective tissue	#002B54	NA
+M83	Musculoskeletal system and connective tissue	#002B54	Adult osteomalacia
+M84	Musculoskeletal system and connective tissue	#002B54	Disorder of continuity of bone
+M85	Musculoskeletal system and connective tissue	#002B54	Other disorders of bone density and structure
+M86	Musculoskeletal system and connective tissue	#002B54	Osteomyelitis
+M87	Musculoskeletal system and connective tissue	#002B54	Osteonecrosis
+M88	Musculoskeletal system and connective tissue	#002B54	Osteitis deformans [Paget's disease of bone]
+M89	Musculoskeletal system and connective tissue	#002B54	Other disorders of bone
+M90	Musculoskeletal system and connective tissue	#002B54	Osteopathies in diseases classified elsewhere
+M91	Musculoskeletal system and connective tissue	#002B54	Juvenile osteochondrosis of hip and pelvis
+M92	Musculoskeletal system and connective tissue	#002B54	Other juvenile osteochondrosis
+M93	Musculoskeletal system and connective tissue	#002B54	Other osteochondropathies
+M94	Musculoskeletal system and connective tissue	#002B54	Other disorders of cartilage
+M95	Musculoskeletal system and connective tissue	#002B54	Oth acquired deformities of ms sys and connective tissue
+M96	Musculoskeletal system and connective tissue	#002B54	Intraop and postproc comp and disorders of ms sys, NEC
+M97	Musculoskeletal system and connective tissue	#002B54	Periprosthetic fracture around internal prosthetic joint
+M98	Musculoskeletal system and connective tissue	#002B54	NA
+M99	Musculoskeletal system and connective tissue	#002B54	Biomechanical lesions, not elsewhere classified
+N00	Genitourinary system	#985396	Acute nephritic syndrome
+N01	Genitourinary system	#985396	Rapidly progressive nephritic syndrome
+N02	Genitourinary system	#985396	Recurrent and persistent hematuria
+N03	Genitourinary system	#985396	Chronic nephritic syndrome
+N04	Genitourinary system	#985396	Nephrotic syndrome
+N05	Genitourinary system	#985396	Unspecified nephritic syndrome
+N06	Genitourinary system	#985396	Isolated proteinuria with specified morphological lesion
+N07	Genitourinary system	#985396	Hereditary nephropathy, not elsewhere classified
+N08	Genitourinary system	#985396	Glomerular disorders in diseases classified elsewhere
+N09	Genitourinary system	#985396	NA
+N10	Genitourinary system	#985396	Acute pyelonephritis
+N11	Genitourinary system	#985396	Chronic tubulo-interstitial nephritis
+N12	Genitourinary system	#985396	Tubulo-interstitial nephritis, not spcf as acute or chronic
+N13	Genitourinary system	#985396	Obstructive and reflux uropathy
+N14	Genitourinary system	#985396	Drug- & heavy-metal-induced tubulo-interstitial & tublr cond Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions
+N15	Genitourinary system	#985396	Other renal tubulo-interstitial diseases
+N16	Genitourinary system	#985396	Renal tubulo-interstitial disord in diseases classd elswhr
+N17	Genitourinary system	#985396	Acute kidney failure
+N18	Genitourinary system	#985396	Chronic kidney disease (CKD)
+N19	Genitourinary system	#985396	Unspecified kidney failure
+N20	Genitourinary system	#985396	Calculus of kidney and ureter
+N21	Genitourinary system	#985396	Calculus of lower urinary tract
+N22	Genitourinary system	#985396	Calculus of urinary tract in diseases classified elsewhere
+N23	Genitourinary system	#985396	Unspecified renal colic
+N24	Genitourinary system	#985396	NA
+N25	Genitourinary system	#985396	Disorders resulting from impaired renal tubular function
+N26	Genitourinary system	#985396	Unspecified contracted kidney
+N27	Genitourinary system	#985396	Small kidney of unknown cause
+N28	Genitourinary system	#985396	Oth disorders of kidney and ureter, not elsewhere classified Other disorders of kidney and ureter, not elsewhere classified
+N29	Genitourinary system	#985396	Oth disorders of kidney and ureter in diseases classd elswhr Other disorders of kidney and ureter in diseases classified elsewhere
+N30	Genitourinary system	#985396	Cystitis
+N31	Genitourinary system	#985396	Neuromuscular dysfunction of bladder, NEC
+N32	Genitourinary system	#985396	Other disorders of bladder
+N33	Genitourinary system	#985396	Bladder disorders in diseases classified elsewhere
+N34	Genitourinary system	#985396	Urethritis and urethral syndrome
+N35	Genitourinary system	#985396	Urethral stricture
+N36	Genitourinary system	#985396	Other disorders of urethra
+N37	Genitourinary system	#985396	Urethral disorders in diseases classified elsewhere
+N38	Genitourinary system	#985396	NA
+N39	Genitourinary system	#985396	Other disorders of urinary system
+N40	Genitourinary system	#985396	Benign prostatic hyperplasia
+N41	Genitourinary system	#985396	Inflammatory diseases of prostate
+N42	Genitourinary system	#985396	Other and unspecified disorders of prostate
+N43	Genitourinary system	#985396	Hydrocele and spermatocele
+N44	Genitourinary system	#985396	Noninflammatory disorders of testis
+N45	Genitourinary system	#985396	Orchitis and epididymitis
+N46	Genitourinary system	#985396	Male infertility
+N47	Genitourinary system	#985396	Disorders of prepuce
+N48	Genitourinary system	#985396	Other disorders of penis
+N49	Genitourinary system	#985396	Inflammatory disorders of male genital organs, NEC
+N50	Genitourinary system	#985396	Other and unspecified disorders of male genital organs
+N51	Genitourinary system	#985396	Disorders of male genital organs in diseases classd elswhr
+N52	Genitourinary system	#985396	Male erectile dysfunction
+N53	Genitourinary system	#985396	Other male sexual dysfunction
+N54	Genitourinary system	#985396	NA
+N55	Genitourinary system	#985396	NA
+N56	Genitourinary system	#985396	NA
+N57	Genitourinary system	#985396	NA
+N58	Genitourinary system	#985396	NA
+N59	Genitourinary system	#985396	NA
+N60	Genitourinary system	#985396	Benign mammary dysplasia
+N61	Genitourinary system	#985396	Inflammatory disorders of breast
+N62	Genitourinary system	#985396	Hypertrophy of breast
+N63	Genitourinary system	#985396	Unspecified lump in breast
+N64	Genitourinary system	#985396	Other disorders of breast
+N65	Genitourinary system	#985396	Deformity and disproportion of reconstructed breast
+N66	Genitourinary system	#985396	NA
+N67	Genitourinary system	#985396	NA
+N68	Genitourinary system	#985396	NA
+N69	Genitourinary system	#985396	NA
+N70	Genitourinary system	#985396	Salpingitis and oophoritis
+N71	Genitourinary system	#985396	Inflammatory disease of uterus, except cervix
+N72	Genitourinary system	#985396	Inflammatory disease of cervix uteri
+N73	Genitourinary system	#985396	Other female pelvic inflammatory diseases
+N74	Genitourinary system	#985396	Female pelvic inflam disorders in diseases classd elswhr
+N75	Genitourinary system	#985396	Diseases of Bartholin's gland
+N76	Genitourinary system	#985396	Other inflammation of vagina and vulva
+N77	Genitourinary system	#985396	Vulvovaginal ulceration and inflam in diseases classd elswhr Vulvovaginal ulceration and inflammation in diseases classified elsewhere
+N78	Genitourinary system	#985396	NA
+N79	Genitourinary system	#985396	NA
+N80	Genitourinary system	#985396	Endometriosis
+N81	Genitourinary system	#985396	Female genital prolapse
+N82	Genitourinary system	#985396	Fistulae involving female genital tract
+N83	Genitourinary system	#985396	Noninflammatory disord of ovary, fallop and broad ligament
+N84	Genitourinary system	#985396	Polyp of female genital tract
+N85	Genitourinary system	#985396	Other noninflammatory disorders of uterus, except cervix
+N86	Genitourinary system	#985396	Erosion and ectropion of cervix uteri
+N87	Genitourinary system	#985396	Dysplasia of cervix uteri
+N88	Genitourinary system	#985396	Other noninflammatory disorders of cervix uteri
+N89	Genitourinary system	#985396	Other noninflammatory disorders of vagina
+N90	Genitourinary system	#985396	Other noninflammatory disorders of vulva and perineum
+N91	Genitourinary system	#985396	Absent, scanty and rare menstruation
+N92	Genitourinary system	#985396	Excessive, frequent and irregular menstruation
+N93	Genitourinary system	#985396	Other abnormal uterine and vaginal bleeding
+N94	Genitourinary system	#985396	Pain and oth cond assoc w fem gntl org and menstrual cycle
+N95	Genitourinary system	#985396	Menopausal and other perimenopausal disorders
+N96	Genitourinary system	#985396	Recurrent pregnancy loss
+N97	Genitourinary system	#985396	Female infertility
+N98	Genitourinary system	#985396	Complications associated with artificial fertilization
+N99	Genitourinary system	#985396	Intraop and postproc comp and disorders of GU sys, NEC
+O00	Pregnancy, childbirth and the puerperium	#805462	Ectopic pregnancy
+O01	Pregnancy, childbirth and the puerperium	#805462	Hydatidiform mole
+O02	Pregnancy, childbirth and the puerperium	#805462	Other abnormal products of conception
+O03	Pregnancy, childbirth and the puerperium	#805462	Spontaneous abortion
+O04	Pregnancy, childbirth and the puerperium	#805462	Complications following (induced) termination of pregnancy
+O05	Pregnancy, childbirth and the puerperium	#805462	NA
+O06	Pregnancy, childbirth and the puerperium	#805462	NA
+O07	Pregnancy, childbirth and the puerperium	#805462	Failed attempted termination of pregnancy
+O08	Pregnancy, childbirth and the puerperium	#805462	Complications following ectopic and molar pregnancy
+O09	Pregnancy, childbirth and the puerperium	#805462	Supervision of high risk pregnancy
+O10	Pregnancy, childbirth and the puerperium	#805462	Pre-existing hypertension compl preg/chldbrth
+O11	Pregnancy, childbirth and the puerperium	#805462	Pre-existing hypertension with pre-eclampsia
+O12	Pregnancy, childbirth and the puerperium	#805462	Gestational edema and proteinuria without hypertension
+O13	Pregnancy, childbirth and the puerperium	#805462	Gestational hypertension without significant proteinuria
+O14	Pregnancy, childbirth and the puerperium	#805462	Pre-eclampsia
+O15	Pregnancy, childbirth and the puerperium	#805462	Eclampsia
+O16	Pregnancy, childbirth and the puerperium	#805462	Unspecified maternal hypertension
+O17	Pregnancy, childbirth and the puerperium	#805462	NA
+O18	Pregnancy, childbirth and the puerperium	#805462	NA
+O19	Pregnancy, childbirth and the puerperium	#805462	NA
+O20	Pregnancy, childbirth and the puerperium	#805462	Hemorrhage in early pregnancy
+O21	Pregnancy, childbirth and the puerperium	#805462	Excessive vomiting in pregnancy
+O22	Pregnancy, childbirth and the puerperium	#805462	Venous complications and hemorrhoids in pregnancy
+O23	Pregnancy, childbirth and the puerperium	#805462	Infections of genitourinary tract in pregnancy
+O24	Pregnancy, childbirth and the puerperium	#805462	Diabetes in pregnancy, childbirth, and the puerperium
+O25	Pregnancy, childbirth and the puerperium	#805462	Malnutrition in pregnancy, childbirth and the puerperium
+O26	Pregnancy, childbirth and the puerperium	#805462	Maternal care for oth conditions predom related to pregnancy Maternal care for other conditions predominantly related to pregnancy
+O27	Pregnancy, childbirth and the puerperium	#805462	NA
+O28	Pregnancy, childbirth and the puerperium	#805462	Abnormal findings on antenatal screening of mother
+O29	Pregnancy, childbirth and the puerperium	#805462	Complications of anesthesia during pregnancy
+O30	Pregnancy, childbirth and the puerperium	#805462	Multiple gestation
+O31	Pregnancy, childbirth and the puerperium	#805462	Complications specific to multiple gestation
+O32	Pregnancy, childbirth and the puerperium	#805462	Maternal care for malpresentation of fetus
+O33	Pregnancy, childbirth and the puerperium	#805462	Maternal care for disproportion
+O34	Pregnancy, childbirth and the puerperium	#805462	Maternal care for abnormality of pelvic organs
+O35	Pregnancy, childbirth and the puerperium	#805462	Maternal care for known or suspected fetal abnlt and damage
+O36	Pregnancy, childbirth and the puerperium	#805462	Maternal care for other fetal problems
+O37	Pregnancy, childbirth and the puerperium	#805462	NA
+O38	Pregnancy, childbirth and the puerperium	#805462	NA
+O39	Pregnancy, childbirth and the puerperium	#805462	NA
+O40	Pregnancy, childbirth and the puerperium	#805462	Polyhydramnios
+O41	Pregnancy, childbirth and the puerperium	#805462	Other disorders of amniotic fluid and membranes
+O42	Pregnancy, childbirth and the puerperium	#805462	Premature rupture of membranes
+O43	Pregnancy, childbirth and the puerperium	#805462	Placental disorders
+O44	Pregnancy, childbirth and the puerperium	#805462	Placenta previa
+O45	Pregnancy, childbirth and the puerperium	#805462	Premature separation of placenta [abruptio placentae]
+O46	Pregnancy, childbirth and the puerperium	#805462	Antepartum hemorrhage, not elsewhere classified
+O47	Pregnancy, childbirth and the puerperium	#805462	False labor
+O48	Pregnancy, childbirth and the puerperium	#805462	Late pregnancy
+O49	Pregnancy, childbirth and the puerperium	#805462	NA
+O50	Pregnancy, childbirth and the puerperium	#805462	NA
+O51	Pregnancy, childbirth and the puerperium	#805462	NA
+O52	Pregnancy, childbirth and the puerperium	#805462	NA
+O53	Pregnancy, childbirth and the puerperium	#805462	NA
+O54	Pregnancy, childbirth and the puerperium	#805462	NA
+O55	Pregnancy, childbirth and the puerperium	#805462	NA
+O56	Pregnancy, childbirth and the puerperium	#805462	NA
+O57	Pregnancy, childbirth and the puerperium	#805462	NA
+O58	Pregnancy, childbirth and the puerperium	#805462	NA
+O59	Pregnancy, childbirth and the puerperium	#805462	NA
+O60	Pregnancy, childbirth and the puerperium	#805462	Preterm labor
+O61	Pregnancy, childbirth and the puerperium	#805462	Failed induction of labor
+O62	Pregnancy, childbirth and the puerperium	#805462	Abnormalities of forces of labor
+O63	Pregnancy, childbirth and the puerperium	#805462	Long labor
+O64	Pregnancy, childbirth and the puerperium	#805462	Obstructed labor due to malposition and malpresent of fetus
+O65	Pregnancy, childbirth and the puerperium	#805462	Obstructed labor due to maternal pelvic abnormality
+O66	Pregnancy, childbirth and the puerperium	#805462	Other obstructed labor
+O67	Pregnancy, childbirth and the puerperium	#805462	Labor and delivery comp by intrapartum hemorrhage, NEC
+O68	Pregnancy, childbirth and the puerperium	#805462	Labor and delivery comp by abnlt of fetal acid-base balance
+O69	Pregnancy, childbirth and the puerperium	#805462	Labor and delivery complicated by umbilical cord comp
+O70	Pregnancy, childbirth and the puerperium	#805462	Perineal laceration during delivery
+O71	Pregnancy, childbirth and the puerperium	#805462	Other obstetric trauma
+O72	Pregnancy, childbirth and the puerperium	#805462	Postpartum hemorrhage
+O73	Pregnancy, childbirth and the puerperium	#805462	Retained placenta and membranes, without hemorrhage
+O74	Pregnancy, childbirth and the puerperium	#805462	Complications of anesthesia during labor and delivery
+O75	Pregnancy, childbirth and the puerperium	#805462	Oth complications of labor and delivery, NEC
+O76	Pregnancy, childbirth and the puerperium	#805462	Abnlt in fetal heart rate and rhythm comp labor and delivery Abnormality in fetal heart rate and rhythm complicating labor and delivery
+O77	Pregnancy, childbirth and the puerperium	#805462	Other fetal stress complicating labor and delivery
+O78	Pregnancy, childbirth and the puerperium	#805462	NA
+O79	Pregnancy, childbirth and the puerperium	#805462	NA
+O80	Pregnancy, childbirth and the puerperium	#805462	Encounter for full-term uncomplicated delivery
+O81	Pregnancy, childbirth and the puerperium	#805462	NA
+O82	Pregnancy, childbirth and the puerperium	#805462	Encounter for cesarean delivery without indication
+O83	Pregnancy, childbirth and the puerperium	#805462	NA
+O84	Pregnancy, childbirth and the puerperium	#805462	NA
+O85	Pregnancy, childbirth and the puerperium	#805462	Puerperal sepsis
+O86	Pregnancy, childbirth and the puerperium	#805462	Other puerperal infections
+O87	Pregnancy, childbirth and the puerperium	#805462	Venous complications and hemorrhoids in the puerperium
+O88	Pregnancy, childbirth and the puerperium	#805462	Obstetric embolism
+O89	Pregnancy, childbirth and the puerperium	#805462	Complications of anesthesia during the puerperium
+O90	Pregnancy, childbirth and the puerperium	#805462	Complications of the puerperium, not elsewhere classified
+O91	Pregnancy, childbirth and the puerperium	#805462	Infect of breast assoc w pregnancy, the puerp and lactation
+O92	Pregnancy, childbirth and the puerperium	#805462	Oth disord of brst/lactatn assoc w pregnancy and the puerp
+O93	Pregnancy, childbirth and the puerperium	#805462	NA
+O94	Pregnancy, childbirth and the puerperium	#805462	Sequelae of comp of pregnancy, chldbrth, and the puerperium
+O95	Pregnancy, childbirth and the puerperium	#805462	NA
+O96	Pregnancy, childbirth and the puerperium	#805462	NA
+O97	Pregnancy, childbirth and the puerperium	#805462	NA
+O98	Pregnancy, childbirth and the puerperium	#805462	Matern infec/parastc dis classd elsw but compl preg/chldbrth Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium
+O99	Pregnancy, childbirth and the puerperium	#805462	Oth maternal diseases classd elsw but compl preg/chldbrth
+P00	Certain conditions originating in the perinatal period	#E3DFD6	NB aff by matern cond that may be unrelated to present preg
+P01	Certain conditions originating in the perinatal period	#E3DFD6	Newborn affected by maternal complications of pregnancy
+P02	Certain conditions originating in the perinatal period	#E3DFD6	Newborn affected by comp of placenta, cord and membranes
+P03	Certain conditions originating in the perinatal period	#E3DFD6	Newborn affected by other comp of labor and delivery
+P04	Certain conditions originating in the perinatal period	#E3DFD6	NB aff by noxious substnc transmitd via plcnta or brst milk
+P05	Certain conditions originating in the perinatal period	#E3DFD6	Disord of NB related to slow fetal growth and fetal malnut
+P06	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P07	Certain conditions originating in the perinatal period	#E3DFD6	Disord of NB related to short gest and low birth weight, NEC Disorders of newborn related to short gestation and low birth weight, not elsewhere classified
+P08	Certain conditions originating in the perinatal period	#E3DFD6	Disord of newborn related to long gest and high birth weight Disorders of newborn related to long gestation and high birth weight
+P09	Certain conditions originating in the perinatal period	#E3DFD6	Abnormal findings on neonatal screening
+P10	Certain conditions originating in the perinatal period	#E3DFD6	Intracranial laceration and hemorrhage due to birth injury
+P11	Certain conditions originating in the perinatal period	#E3DFD6	Other birth injuries to central nervous system
+P12	Certain conditions originating in the perinatal period	#E3DFD6	Birth injury to scalp
+P13	Certain conditions originating in the perinatal period	#E3DFD6	Birth injury to skeleton
+P14	Certain conditions originating in the perinatal period	#E3DFD6	Birth injury to peripheral nervous system
+P15	Certain conditions originating in the perinatal period	#E3DFD6	Other birth injuries
+P16	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P17	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P18	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P19	Certain conditions originating in the perinatal period	#E3DFD6	Metabolic acidemia in newborn
+P20	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P21	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P22	Certain conditions originating in the perinatal period	#E3DFD6	Respiratory distress of newborn
+P23	Certain conditions originating in the perinatal period	#E3DFD6	Congenital pneumonia
+P24	Certain conditions originating in the perinatal period	#E3DFD6	Neonatal aspiration
+P25	Certain conditions originating in the perinatal period	#E3DFD6	Interstit emphysema and rel cond origin in perinat period
+P26	Certain conditions originating in the perinatal period	#E3DFD6	Pulmonary hemorrhage originating in the perinatal period
+P27	Certain conditions originating in the perinatal period	#E3DFD6	Chronic respiratory disease origin in the perinatal period
+P28	Certain conditions originating in the perinatal period	#E3DFD6	Oth respiratory conditions origin in the perinatal period
+P29	Certain conditions originating in the perinatal period	#E3DFD6	Cardiovascular disorders originating in the perinatal period Cardiovascular disorders originating in the perinatal period
+P30	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P31	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P32	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P33	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P34	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P35	Certain conditions originating in the perinatal period	#E3DFD6	Congenital viral diseases
+P36	Certain conditions originating in the perinatal period	#E3DFD6	Bacterial sepsis of newborn
+P37	Certain conditions originating in the perinatal period	#E3DFD6	Other congenital infectious and parasitic diseases
+P38	Certain conditions originating in the perinatal period	#E3DFD6	Omphalitis of newborn
+P39	Certain conditions originating in the perinatal period	#E3DFD6	Other infections specific to the perinatal period
+P40	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P41	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P42	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P43	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P44	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P45	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P46	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P47	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P48	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P49	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P50	Certain conditions originating in the perinatal period	#E3DFD6	Newborn affected by intrauterine (fetal) blood loss
+P51	Certain conditions originating in the perinatal period	#E3DFD6	Umbilical hemorrhage of newborn
+P52	Certain conditions originating in the perinatal period	#E3DFD6	Intracranial nontraumatic hemorrhage of newborn
+P53	Certain conditions originating in the perinatal period	#E3DFD6	Hemorrhagic disease of newborn
+P54	Certain conditions originating in the perinatal period	#E3DFD6	Other neonatal hemorrhages
+P55	Certain conditions originating in the perinatal period	#E3DFD6	Hemolytic disease of newborn
+P56	Certain conditions originating in the perinatal period	#E3DFD6	Hydrops fetalis due to hemolytic disease
+P57	Certain conditions originating in the perinatal period	#E3DFD6	Kernicterus
+P58	Certain conditions originating in the perinatal period	#E3DFD6	Neonatal jaundice due to other excessive hemolysis
+P59	Certain conditions originating in the perinatal period	#E3DFD6	Neonatal jaundice from other and unspecified causes
+P60	Certain conditions originating in the perinatal period	#E3DFD6	Disseminated intravascular coagulation of newborn
+P61	Certain conditions originating in the perinatal period	#E3DFD6	Other perinatal hematological disorders
+P62	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P63	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P64	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P65	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P66	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P67	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P68	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P69	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P70	Certain conditions originating in the perinatal period	#E3DFD6	Transitory disord of carbohydrate metab specific to newborn
+P71	Certain conditions originating in the perinatal period	#E3DFD6	Transitory neonatal disorders of calcium and magnesium metab Transitory neonatal disorders of calcium and magnesium metabolism
+P72	Certain conditions originating in the perinatal period	#E3DFD6	Other transitory neonatal endocrine disorders
+P73	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P74	Certain conditions originating in the perinatal period	#E3DFD6	Oth transitory neonatal electrolyte and metabolic disturb
+P75	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P76	Certain conditions originating in the perinatal period	#E3DFD6	Other intestinal obstruction of newborn
+P77	Certain conditions originating in the perinatal period	#E3DFD6	Necrotizing enterocolitis of newborn
+P78	Certain conditions originating in the perinatal period	#E3DFD6	Other perinatal digestive system disorders
+P79	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P80	Certain conditions originating in the perinatal period	#E3DFD6	Hypothermia of newborn
+P81	Certain conditions originating in the perinatal period	#E3DFD6	Other disturbances of temperature regulation of newborn
+P82	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P83	Certain conditions originating in the perinatal period	#E3DFD6	Other conditions of integument specific to newborn
+P84	Certain conditions originating in the perinatal period	#E3DFD6	Other problems with newborn
+P85	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P86	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P87	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P88	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P89	Certain conditions originating in the perinatal period	#E3DFD6	NA
+P90	Certain conditions originating in the perinatal period	#E3DFD6	Convulsions of newborn
+P91	Certain conditions originating in the perinatal period	#E3DFD6	Other disturbances of cerebral status of newborn
+P92	Certain conditions originating in the perinatal period	#E3DFD6	Feeding problems of newborn
+P93	Certain conditions originating in the perinatal period	#E3DFD6	Reactions and intoxications due to drugs administered to NB
+P94	Certain conditions originating in the perinatal period	#E3DFD6	Disorders of muscle tone of newborn
+P95	Certain conditions originating in the perinatal period	#E3DFD6	Stillbirth
+P96	Certain conditions originating in the perinatal period	#E3DFD6	Other conditions originating in the perinatal period
+Q00	Congenital malformations and chromosomal abnormalities	#B2B1A5	Anencephaly and similar malformations
+Q01	Congenital malformations and chromosomal abnormalities	#B2B1A5	Encephalocele
+Q02	Congenital malformations and chromosomal abnormalities	#B2B1A5	Microcephaly
+Q03	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital hydrocephalus
+Q04	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of brain
+Q05	Congenital malformations and chromosomal abnormalities	#B2B1A5	Spina bifida
+Q06	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of spinal cord
+Q07	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of nervous system
+Q08	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q09	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q10	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malform of eyelid, lacrimal apparatus and orbit
+Q11	Congenital malformations and chromosomal abnormalities	#B2B1A5	Anophthalmos, microphthalmos and macrophthalmos
+Q12	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital lens malformations
+Q13	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of anterior segment of eye
+Q14	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of posterior segment of eye
+Q15	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of eye
+Q16	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malform of ear causing impairment of hearing
+Q17	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of ear
+Q18	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of face and neck
+Q19	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q20	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of cardiac chambers and connections Congenital malformations of cardiac chambers and connections
+Q21	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of cardiac septa
+Q22	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of pulmonary and tricuspid valves
+Q23	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of aortic and mitral valves
+Q24	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of heart
+Q25	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of great arteries
+Q26	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of great veins
+Q27	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of peripheral vascular system Other congenital malformations of peripheral vascular system
+Q28	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of circulatory system
+Q29	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q30	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of nose
+Q31	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of larynx
+Q32	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of trachea and bronchus
+Q33	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of lung
+Q34	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of respiratory system
+Q35	Congenital malformations and chromosomal abnormalities	#B2B1A5	Cleft palate
+Q36	Congenital malformations and chromosomal abnormalities	#B2B1A5	Cleft lip
+Q37	Congenital malformations and chromosomal abnormalities	#B2B1A5	Cleft palate with cleft lip
+Q38	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of tongue, mouth and pharynx
+Q39	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of esophagus
+Q40	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of upper alimentary tract
+Q41	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital absence, atresia and stenosis of small intestine
+Q42	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital absence, atresia and stenosis of large intestine
+Q43	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of intestine
+Q44	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malform of gallbladder, bile ducts and liver
+Q45	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of digestive system
+Q46	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q47	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q48	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q49	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q50	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congen malform of ovaries, fallopian tubes & broad ligaments Congenital malformations of ovaries, fallopian tubes and broad ligaments
+Q51	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of uterus and cervix
+Q52	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of female genitalia
+Q53	Congenital malformations and chromosomal abnormalities	#B2B1A5	Undescended and ectopic testicle
+Q54	Congenital malformations and chromosomal abnormalities	#B2B1A5	Hypospadias
+Q55	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of male genital organs
+Q56	Congenital malformations and chromosomal abnormalities	#B2B1A5	Indeterminate sex and pseudohermaphroditism
+Q57	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q58	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q59	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q60	Congenital malformations and chromosomal abnormalities	#B2B1A5	Renal agenesis and other reduction defects of kidney
+Q61	Congenital malformations and chromosomal abnormalities	#B2B1A5	Cystic kidney disease
+Q62	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congen defects of renal pelvis and congen malform of ureter
+Q63	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of kidney
+Q64	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of urinary system
+Q65	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital deformities of hip
+Q66	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital deformities of feet
+Q67	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital ms deformities of head, face, spine and chest
+Q68	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital musculoskeletal deformities
+Q69	Congenital malformations and chromosomal abnormalities	#B2B1A5	Polydactyly
+Q70	Congenital malformations and chromosomal abnormalities	#B2B1A5	Syndactyly
+Q71	Congenital malformations and chromosomal abnormalities	#B2B1A5	Reduction defects of upper limb
+Q72	Congenital malformations and chromosomal abnormalities	#B2B1A5	Reduction defects of lower limb
+Q73	Congenital malformations and chromosomal abnormalities	#B2B1A5	Reduction defects of unspecified limb
+Q74	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of limb(s)
+Q75	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of skull and face bones
+Q76	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of spine and bony thorax
+Q77	Congenital malformations and chromosomal abnormalities	#B2B1A5	Osteochndrdys w defects of growth of tubular bones and spine Osteochondrodysplasia with defects of growth of tubular bones and spine
+Q78	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other osteochondrodysplasias
+Q79	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of musculoskeletal system, NEC
+Q80	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital ichthyosis
+Q81	Congenital malformations and chromosomal abnormalities	#B2B1A5	Epidermolysis bullosa
+Q82	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of skin
+Q83	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congenital malformations of breast
+Q84	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations of integument
+Q85	Congenital malformations and chromosomal abnormalities	#B2B1A5	Phakomatoses, not elsewhere classified
+Q86	Congenital malformations and chromosomal abnormalities	#B2B1A5	Congen malform syndromes due to known exogenous causes, NEC
+Q87	Congenital malformations and chromosomal abnormalities	#B2B1A5	Oth congenital malform syndromes affecting multiple systems
+Q88	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q89	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other congenital malformations, not elsewhere classified
+Q90	Congenital malformations and chromosomal abnormalities	#B2B1A5	Down syndrome
+Q91	Congenital malformations and chromosomal abnormalities	#B2B1A5	Trisomy 18 and Trisomy 13
+Q92	Congenital malformations and chromosomal abnormalities	#B2B1A5	Oth trisomies and partial trisomies of the autosomes, NEC
+Q93	Congenital malformations and chromosomal abnormalities	#B2B1A5	Monosomies and deletions from the autosomes, NEC
+Q94	Congenital malformations and chromosomal abnormalities	#B2B1A5	NA
+Q95	Congenital malformations and chromosomal abnormalities	#B2B1A5	Balanced rearrangements and structural markers, NEC
+Q96	Congenital malformations and chromosomal abnormalities	#B2B1A5	Turner's syndrome
+Q97	Congenital malformations and chromosomal abnormalities	#B2B1A5	Oth sex chromosome abnormalities, female phenotype, NEC
+Q98	Congenital malformations and chromosomal abnormalities	#B2B1A5	Oth sex chromosome abnormalities, male phenotype, NEC
+Q99	Congenital malformations and chromosomal abnormalities	#B2B1A5	Other chromosome abnormalities, not elsewhere classified
+R00	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormalities of heart beat
+R01	Symptoms, signs and abnormal laboratory findings	#58574B	Cardiac murmurs and other cardiac sounds
+R02	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R03	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal blood-pressure reading, without diagnosis
+R04	Symptoms, signs and abnormal laboratory findings	#58574B	Hemorrhage from respiratory passages
+R05	Symptoms, signs and abnormal laboratory findings	#58574B	Cough
+R06	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormalities of breathing
+R07	Symptoms, signs and abnormal laboratory findings	#58574B	Pain in throat and chest
+R08	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R09	Symptoms, signs and abnormal laboratory findings	#58574B	Oth symptoms and signs involving the circ and resp sys
+R10	Symptoms, signs and abnormal laboratory findings	#58574B	Abdominal and pelvic pain
+R11	Symptoms, signs and abnormal laboratory findings	#58574B	Nausea and vomiting
+R12	Symptoms, signs and abnormal laboratory findings	#58574B	Heartburn
+R13	Symptoms, signs and abnormal laboratory findings	#58574B	Aphagia and dysphagia
+R14	Symptoms, signs and abnormal laboratory findings	#58574B	Flatulence and related conditions
+R15	Symptoms, signs and abnormal laboratory findings	#58574B	Fecal incontinence
+R16	Symptoms, signs and abnormal laboratory findings	#58574B	Hepatomegaly and splenomegaly, not elsewhere classified
+R17	Symptoms, signs and abnormal laboratory findings	#58574B	Unspecified jaundice
+R18	Symptoms, signs and abnormal laboratory findings	#58574B	Ascites
+R19	Symptoms, signs and abnormal laboratory findings	#58574B	Oth symptoms and signs involving the dgstv sys and abdomen
+R20	Symptoms, signs and abnormal laboratory findings	#58574B	Disturbances of skin sensation
+R21	Symptoms, signs and abnormal laboratory findings	#58574B	Rash and other nonspecific skin eruption
+R22	Symptoms, signs and abnormal laboratory findings	#58574B	Localized swelling, mass and lump of skin, subcu
+R23	Symptoms, signs and abnormal laboratory findings	#58574B	Other skin changes
+R24	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R25	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal involuntary movements
+R26	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormalities of gait and mobility
+R27	Symptoms, signs and abnormal laboratory findings	#58574B	Other lack of coordination
+R28	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R29	Symptoms, signs and abnormal laboratory findings	#58574B	Oth symptoms and signs involving the nervous and ms systems
+R30	Symptoms, signs and abnormal laboratory findings	#58574B	Pain associated with micturition
+R31	Symptoms, signs and abnormal laboratory findings	#58574B	Hematuria
+R32	Symptoms, signs and abnormal laboratory findings	#58574B	Unspecified urinary incontinence
+R33	Symptoms, signs and abnormal laboratory findings	#58574B	Retention of urine
+R34	Symptoms, signs and abnormal laboratory findings	#58574B	Anuria and oliguria
+R35	Symptoms, signs and abnormal laboratory findings	#58574B	Polyuria
+R36	Symptoms, signs and abnormal laboratory findings	#58574B	Urethral discharge
+R37	Symptoms, signs and abnormal laboratory findings	#58574B	Sexual dysfunction, unspecified
+R38	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R39	Symptoms, signs and abnormal laboratory findings	#58574B	Oth and unsp symptoms and signs involving the GU sys
+R40	Symptoms, signs and abnormal laboratory findings	#58574B	Somnolence, stupor and coma
+R41	Symptoms, signs and abnormal laboratory findings	#58574B	Oth symptoms and signs w cognitive functions and awareness
+R42	Symptoms, signs and abnormal laboratory findings	#58574B	Dizziness and giddiness
+R43	Symptoms, signs and abnormal laboratory findings	#58574B	Disturbances of smell and taste
+R44	Symptoms, signs and abnormal laboratory findings	#58574B	Oth symptoms and signs w general sensations and perceptions
+R45	Symptoms, signs and abnormal laboratory findings	#58574B	Symptoms and signs involving emotional state
+R46	Symptoms, signs and abnormal laboratory findings	#58574B	Symptoms and signs involving appearance and behavior
+R47	Symptoms, signs and abnormal laboratory findings	#58574B	Speech disturbances, not elsewhere classified
+R48	Symptoms, signs and abnormal laboratory findings	#58574B	Dyslexia and oth symbolic dysfunctions, NEC
+R49	Symptoms, signs and abnormal laboratory findings	#58574B	Voice and resonance disorders
+R50	Symptoms, signs and abnormal laboratory findings	#58574B	Fever of other and unknown origin
+R51	Symptoms, signs and abnormal laboratory findings	#58574B	Headache
+R52	Symptoms, signs and abnormal laboratory findings	#58574B	Pain, unspecified
+R53	Symptoms, signs and abnormal laboratory findings	#58574B	Malaise and fatigue
+R54	Symptoms, signs and abnormal laboratory findings	#58574B	Age-related physical debility
+R55	Symptoms, signs and abnormal laboratory findings	#58574B	Syncope and collapse
+R56	Symptoms, signs and abnormal laboratory findings	#58574B	Convulsions, not elsewhere classified
+R57	Symptoms, signs and abnormal laboratory findings	#58574B	Shock, not elsewhere classified
+R58	Symptoms, signs and abnormal laboratory findings	#58574B	Hemorrhage, not elsewhere classified
+R59	Symptoms, signs and abnormal laboratory findings	#58574B	Enlarged lymph nodes
+R60	Symptoms, signs and abnormal laboratory findings	#58574B	Edema, not elsewhere classified
+R61	Symptoms, signs and abnormal laboratory findings	#58574B	Generalized hyperhidrosis
+R62	Symptoms, signs and abnormal laboratory findings	#58574B	Lack of expected normal physiol dev in childhood and adults
+R63	Symptoms, signs and abnormal laboratory findings	#58574B	Symptoms and signs concerning food and fluid intake
+R64	Symptoms, signs and abnormal laboratory findings	#58574B	Cachexia
+R65	Symptoms, signs and abnormal laboratory findings	#58574B	Symp and signs specifically assoc w sys inflam and infct
+R66	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R67	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R68	Symptoms, signs and abnormal laboratory findings	#58574B	Other general symptoms and signs
+R69	Symptoms, signs and abnormal laboratory findings	#58574B	Illness, unspecified
+R70	Symptoms, signs and abnormal laboratory findings	#58574B	Elev erythro sedim and abnormality of plasma viscosity
+R71	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormality of red blood cells
+R72	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R73	Symptoms, signs and abnormal laboratory findings	#58574B	Elevated blood glucose level
+R74	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal serum enzyme levels
+R75	Symptoms, signs and abnormal laboratory findings	#58574B	Inconclusive laboratory evidence of human immunodef virus
+R76	Symptoms, signs and abnormal laboratory findings	#58574B	Other abnormal immunological findings in serum
+R77	Symptoms, signs and abnormal laboratory findings	#58574B	Other abnormalities of plasma proteins
+R78	Symptoms, signs and abnormal laboratory findings	#58574B	Find of drugs and oth substnc, not normally found in blood
+R79	Symptoms, signs and abnormal laboratory findings	#58574B	Other abnormal findings of blood chemistry
+R80	Symptoms, signs and abnormal laboratory findings	#58574B	Proteinuria
+R81	Symptoms, signs and abnormal laboratory findings	#58574B	Glycosuria
+R82	Symptoms, signs and abnormal laboratory findings	#58574B	Other and unspecified abnormal findings in urine
+R83	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in cerebrospinal fluid
+R84	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in specimens from resp org/thrx
+R85	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in specimens from dgstv org/abd cav
+R86	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in specimens from male genital organs
+R87	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in specimens from female genital organs
+R88	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in other body fluids and substances
+R89	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings in specimens from oth org/tiss
+R90	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings on diagnostic imaging of cnsl
+R91	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings on diagnostic imaging of lung
+R92	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal and inconclusive findings on dx imaging of breast
+R93	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal findings on diagnostic imaging of body structures
+R94	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal results of function studies
+R95	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R96	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R97	Symptoms, signs and abnormal laboratory findings	#58574B	Abnormal tumor markers
+R98	Symptoms, signs and abnormal laboratory findings	#58574B	NA
+R99	Symptoms, signs and abnormal laboratory findings	#58574B	Ill-defined and unknown cause of mortality
+S00	Injury, poisoning	#C5AB89	Superficial injury of head
+S01	Injury, poisoning	#C5AB89	Open wound of head
+S02	Injury, poisoning	#C5AB89	Fracture of skull and facial bones
+S03	Injury, poisoning	#C5AB89	Dislocation and sprain of joints and ligaments of head
+S04	Injury, poisoning	#C5AB89	Injury of cranial nerve
+S05	Injury, poisoning	#C5AB89	Injury of eye and orbit
+S06	Injury, poisoning	#C5AB89	Intracranial injury
+S07	Injury, poisoning	#C5AB89	Crushing injury of head
+S08	Injury, poisoning	#C5AB89	Avulsion and traumatic amputation of part of head
+S09	Injury, poisoning	#C5AB89	Other and unspecified injuries of head
+S10	Injury, poisoning	#C5AB89	Superficial injury of neck
+S11	Injury, poisoning	#C5AB89	Open wound of neck
+S12	Injury, poisoning	#C5AB89	Fracture of cervical vertebra and other parts of neck
+S13	Injury, poisoning	#C5AB89	Dislocation and sprain of joints and ligaments at neck level Dislocation and sprain of joints and ligaments at neck level
+S14	Injury, poisoning	#C5AB89	Injury of nerves and spinal cord at neck level
+S15	Injury, poisoning	#C5AB89	Injury of blood vessels at neck level
+S16	Injury, poisoning	#C5AB89	Injury of muscle, fascia and tendon at neck level
+S17	Injury, poisoning	#C5AB89	Crushing injury of neck
+S18	Injury, poisoning	#C5AB89	NA
+S19	Injury, poisoning	#C5AB89	Other specified and unspecified injuries of neck
+S20	Injury, poisoning	#C5AB89	Superficial injury of thorax
+S21	Injury, poisoning	#C5AB89	Open wound of thorax
+S22	Injury, poisoning	#C5AB89	Fracture of rib(s), sternum and thoracic spine
+S23	Injury, poisoning	#C5AB89	Dislocation and sprain of joints and ligaments of thorax
+S24	Injury, poisoning	#C5AB89	Injury of nerves and spinal cord at thorax level
+S25	Injury, poisoning	#C5AB89	Injury of blood vessels of thorax
+S26	Injury, poisoning	#C5AB89	Injury of heart
+S27	Injury, poisoning	#C5AB89	Injury of other and unspecified intrathoracic organs
+S28	Injury, poisoning	#C5AB89	Crushing inj thorax, and traumatic amp of part of thorax
+S29	Injury, poisoning	#C5AB89	Other and unspecified injuries of thorax
+S30	Injury, poisoning	#C5AB89	Superfic inj abdomen, low back, pelvis and external genitals Superficial injury of abdomen, lower back, pelvis and external genitals
+S31	Injury, poisoning	#C5AB89	Opn wnd abdomen, lower back, pelvis and external genitals
+S32	Injury, poisoning	#C5AB89	Fracture of lumbar spine and pelvis
+S33	Injury, poisoning	#C5AB89	Disloc & sprain of joints & ligaments of lumbar spin & pelv
+S34	Injury, poisoning	#C5AB89	Inj lower spinl cord and nrv at abd, low back and pelv level Injury of lumbar and sacral spinal cord and nerves at abdomen, lower back and pelvis level
+S35	Injury, poisoning	#C5AB89	Inj blood vessels at abdomen, low back and pelvis level
+S36	Injury, poisoning	#C5AB89	Injury of intra-abdominal organs
+S37	Injury, poisoning	#C5AB89	Injury of urinary and pelvic organs
+S38	Injury, poisoning	#C5AB89	Crush inj & traum amp of abd,low back, pelv & extrn genitals Crushing injury and traumatic amputation of abdomen, lower back, pelvis and external genitals
+S39	Injury, poisoning	#C5AB89	Oth & unsp injuries of abd, low back, pelv & extrn genitals
+S40	Injury, poisoning	#C5AB89	Superficial injury of shoulder and upper arm
+S41	Injury, poisoning	#C5AB89	Open wound of shoulder and upper arm
+S42	Injury, poisoning	#C5AB89	Fracture of shoulder and upper arm
+S43	Injury, poisoning	#C5AB89	Disloc and sprain of joints and ligaments of shoulder girdle Dislocation and sprain of joints and ligaments of shoulder girdle
+S44	Injury, poisoning	#C5AB89	Injury of nerves at shoulder and upper arm level
+S45	Injury, poisoning	#C5AB89	Injury of blood vessels at shoulder and upper arm level
+S46	Injury, poisoning	#C5AB89	Injury of muscle, fascia and tendon at shldr/up arm
+S47	Injury, poisoning	#C5AB89	Crushing injury of shoulder and upper arm
+S48	Injury, poisoning	#C5AB89	Traumatic amputation of shoulder and upper arm
+S49	Injury, poisoning	#C5AB89	Other and unspecified injuries of shoulder and upper arm
+S50	Injury, poisoning	#C5AB89	Superficial injury of elbow and forearm
+S51	Injury, poisoning	#C5AB89	Open wound of elbow and forearm
+S52	Injury, poisoning	#C5AB89	Fracture of forearm
+S53	Injury, poisoning	#C5AB89	Dislocation and sprain of joints and ligaments of elbow
+S54	Injury, poisoning	#C5AB89	Injury of nerves at forearm level
+S55	Injury, poisoning	#C5AB89	Injury of blood vessels at forearm level
+S56	Injury, poisoning	#C5AB89	Injury of muscle, fascia and tendon at forearm level
+S57	Injury, poisoning	#C5AB89	Crushing injury of elbow and forearm
+S58	Injury, poisoning	#C5AB89	Traumatic amputation of elbow and forearm
+S59	Injury, poisoning	#C5AB89	Other and unspecified injuries of elbow and forearm
+S60	Injury, poisoning	#C5AB89	Superficial injury of wrist, hand and fingers
+S61	Injury, poisoning	#C5AB89	Open wound of wrist, hand and fingers
+S62	Injury, poisoning	#C5AB89	Fracture at wrist and hand level
+S63	Injury, poisoning	#C5AB89	Dislocation and sprain of joints and ligaments at wrs/hnd lv Dislocation and sprain of joints and ligaments at wrist and hand level
+S64	Injury, poisoning	#C5AB89	Injury of nerves at wrist and hand level
+S65	Injury, poisoning	#C5AB89	Injury of blood vessels at wrist and hand level
+S66	Injury, poisoning	#C5AB89	Injury of muscle, fascia and tendon at wrist and hand level
+S67	Injury, poisoning	#C5AB89	Crushing injury of wrist, hand and fingers
+S68	Injury, poisoning	#C5AB89	Traumatic amputation of wrist, hand and fingers
+S69	Injury, poisoning	#C5AB89	Other and unspecified injuries of wrist, hand and finger(s)
+S70	Injury, poisoning	#C5AB89	Superficial injury of hip and thigh
+S71	Injury, poisoning	#C5AB89	Open wound of hip and thigh
+S72	Injury, poisoning	#C5AB89	Fracture of femur
+S73	Injury, poisoning	#C5AB89	Dislocation and sprain of joint and ligaments of hip
+S74	Injury, poisoning	#C5AB89	Injury of nerves at hip and thigh level
+S75	Injury, poisoning	#C5AB89	Injury of blood vessels at hip and thigh level
+S76	Injury, poisoning	#C5AB89	Injury of muscle, fascia and tendon at hip and thigh level
+S77	Injury, poisoning	#C5AB89	Crushing injury of hip and thigh
+S78	Injury, poisoning	#C5AB89	Traumatic amputation of hip and thigh
+S79	Injury, poisoning	#C5AB89	Other and unspecified injuries of hip and thigh
+S80	Injury, poisoning	#C5AB89	Superficial injury of knee and lower leg
+S81	Injury, poisoning	#C5AB89	Open wound of knee and lower leg
+S82	Injury, poisoning	#C5AB89	Fracture of lower leg, including ankle
+S83	Injury, poisoning	#C5AB89	Dislocation and sprain of joints and ligaments of knee
+S84	Injury, poisoning	#C5AB89	Injury of nerves at lower leg level
+S85	Injury, poisoning	#C5AB89	Injury of blood vessels at lower leg level
+S86	Injury, poisoning	#C5AB89	Injury of muscle, fascia and tendon at lower leg level
+S87	Injury, poisoning	#C5AB89	Crushing injury of lower leg
+S88	Injury, poisoning	#C5AB89	Traumatic amputation of lower leg
+S89	Injury, poisoning	#C5AB89	Other and unspecified injuries of lower leg
+S90	Injury, poisoning	#C5AB89	Superficial injury of ankle, foot and toes
+S91	Injury, poisoning	#C5AB89	Open wound of ankle, foot and toes
+S92	Injury, poisoning	#C5AB89	Fracture of foot and toe, except ankle
+S93	Injury, poisoning	#C5AB89	Disloc & sprain of joints & ligaments at ankl, ft & toe lev
+S94	Injury, poisoning	#C5AB89	Injury of nerves at ankle and foot level
+S95	Injury, poisoning	#C5AB89	Injury of blood vessels at ankle and foot level
+S96	Injury, poisoning	#C5AB89	Injury of muscle and tendon at ankle and foot level
+S97	Injury, poisoning	#C5AB89	Crushing injury of ankle and foot
+S98	Injury, poisoning	#C5AB89	Traumatic amputation of ankle and foot
+S99	Injury, poisoning	#C5AB89	Other and unspecified injuries of ankle and foot
+T00	Injury, poisoning	#C5AB89	NA
+T01	Injury, poisoning	#C5AB89	NA
+T02	Injury, poisoning	#C5AB89	NA
+T03	Injury, poisoning	#C5AB89	NA
+T04	Injury, poisoning	#C5AB89	NA
+T05	Injury, poisoning	#C5AB89	NA
+T06	Injury, poisoning	#C5AB89	NA
+T07	Injury, poisoning	#C5AB89	Unspecified multiple injuries
+T08	Injury, poisoning	#C5AB89	NA
+T09	Injury, poisoning	#C5AB89	NA
+T10	Injury, poisoning	#C5AB89	NA
+T11	Injury, poisoning	#C5AB89	NA
+T12	Injury, poisoning	#C5AB89	NA
+T13	Injury, poisoning	#C5AB89	NA
+T14	Injury, poisoning	#C5AB89	Injury of unspecified body region
+T15	Injury, poisoning	#C5AB89	Foreign body on external eye
+T16	Injury, poisoning	#C5AB89	Foreign body in ear
+T17	Injury, poisoning	#C5AB89	Foreign body in respiratory tract
+T18	Injury, poisoning	#C5AB89	Foreign body in alimentary tract
+T19	Injury, poisoning	#C5AB89	Foreign body in genitourinary tract
+T20	Injury, poisoning	#C5AB89	Burn and corrosion of head, face, and neck
+T21	Injury, poisoning	#C5AB89	Burn and corrosion of trunk
+T22	Injury, poisoning	#C5AB89	Burn and corrosion of shldr/up lmb, except wrist and hand
+T23	Injury, poisoning	#C5AB89	Burn and corrosion of wrist and hand
+T24	Injury, poisoning	#C5AB89	Burn and corrosion of lower limb, except ankle and foot
+T25	Injury, poisoning	#C5AB89	Burn and corrosion of ankle and foot
+T26	Injury, poisoning	#C5AB89	Burn and corrosion confined to eye and adnexa
+T27	Injury, poisoning	#C5AB89	Burn and corrosion of respiratory tract
+T28	Injury, poisoning	#C5AB89	Burn and corrosion of other internal organs
+T29	Injury, poisoning	#C5AB89	NA
+T30	Injury, poisoning	#C5AB89	Burn and corrosion, body region unspecified
+T31	Injury, poisoning	#C5AB89	Burns classified accord extent body involv
+T32	Injury, poisoning	#C5AB89	Corrosions classified accord extent body involv
+T33	Injury, poisoning	#C5AB89	Superficial frostbite
+T34	Injury, poisoning	#C5AB89	Frostbite with tissue necrosis
+T35	Injury, poisoning	#C5AB89	NA
+T36	Injury, poisoning	#C5AB89	Systemic antibiotics
+T37	Injury, poisoning	#C5AB89	Other systemic anti-infectives and antiparasitics
+T38	Injury, poisoning	#C5AB89	Hormones and their synthetic substitutes and antag, NEC
+T39	Injury, poisoning	#C5AB89	Nonopioid analgesics, antipyretics and antirheumatics
+T40	Injury, poisoning	#C5AB89	Narcotics and psychodysleptics
+T41	Injury, poisoning	#C5AB89	Anesthetics and therapeutic gases
+T42	Injury, poisoning	#C5AB89	Antiepileptic, sedative- hypnotic and antiparkinsonism drugs Poisoning by, adverse effect of and underdosing of antiepileptic, sedative- hypnotic and antiparkinsonism drugs
+T43	Injury, poisoning	#C5AB89	Psychotropic drugs, not elsewhere classified
+T44	Injury, poisoning	#C5AB89	Drugs primarily affecting the autonomic nervous system
+T45	Injury, poisoning	#C5AB89	Primarily systemic and hematological agents, NEC
+T46	Injury, poisoning	#C5AB89	Agents primarily affecting the cardiovascular system
+T47	Injury, poisoning	#C5AB89	Agents primarily affecting the gastrointestinal system
+T48	Injury, poisoning	#C5AB89	Agents prim act on smooth and skeletal musc and the resp sys Poisoning by, adverse effect of and underdosing of agents primarily acting on smooth and skeletal muscles and the respiratory system
+T49	Injury, poisoning	#C5AB89	Topical skin/eye/ENT/dental drugs
+T50	Injury, poisoning	#C5AB89	Diuretics and oth and unsp drug/meds/biol subst
+T51	Injury, poisoning	#C5AB89	Toxic effect of alcohol
+T52	Injury, poisoning	#C5AB89	Toxic effect of organic solvents
+T53	Injury, poisoning	#C5AB89	Toxic effect of halogen derivatives of aromat hydrocrb
+T54	Injury, poisoning	#C5AB89	Toxic effect of corrosive substances
+T55	Injury, poisoning	#C5AB89	Toxic effect of soaps and detergents
+T56	Injury, poisoning	#C5AB89	Toxic effect of metals
+T57	Injury, poisoning	#C5AB89	Toxic effect of other inorganic substances
+T58	Injury, poisoning	#C5AB89	Toxic effect of carbon monoxide
+T59	Injury, poisoning	#C5AB89	Toxic effect of other gases, fumes and vapors
+T60	Injury, poisoning	#C5AB89	Toxic effect of pesticides
+T61	Injury, poisoning	#C5AB89	Toxic effect of noxious substances eaten as seafood
+T62	Injury, poisoning	#C5AB89	Toxic effect of other noxious substances eaten as food
+T63	Injury, poisoning	#C5AB89	Toxic effect of contact with venomous animals and plants
+T64	Injury, poisoning	#C5AB89	Toxic effect of aflatoxin and oth mycotoxin food contamnt
+T65	Injury, poisoning	#C5AB89	Toxic effect of other and unspecified substances
+T66	Injury, poisoning	#C5AB89	Radiation sickness, unspecified
+T67	Injury, poisoning	#C5AB89	Effects of heat and light
+T68	Injury, poisoning	#C5AB89	Hypothermia
+T69	Injury, poisoning	#C5AB89	Other effects of reduced temperature
+T70	Injury, poisoning	#C5AB89	Effects of air pressure and water pressure
+T71	Injury, poisoning	#C5AB89	Asphyxiation
+T72	Injury, poisoning	#C5AB89	NA
+T73	Injury, poisoning	#C5AB89	Effects of other deprivation
+T74	Injury, poisoning	#C5AB89	Adult and child abuse, neglect and oth maltreat, confirmed
+T75	Injury, poisoning	#C5AB89	Other and unspecified effects of other external causes
+T76	Injury, poisoning	#C5AB89	Adult and child abuse, neglect and oth maltreat, suspected
+T77	Injury, poisoning	#C5AB89	NA
+T78	Injury, poisoning	#C5AB89	Adverse effects, not elsewhere classified
+T79	Injury, poisoning	#C5AB89	Certain early complications of trauma, NEC
+T80	Injury, poisoning	#C5AB89	Comp following infusion, transfusion and theraputc injection Complications following infusion, transfusion and therapeutic injection
+T81	Injury, poisoning	#C5AB89	Complications of procedures, not elsewhere classified
+T82	Injury, poisoning	#C5AB89	Complications of cardiac and vascular prosth dev/grft
+T83	Injury, poisoning	#C5AB89	Complications of genitourinary prosth dev/grft
+T84	Injury, poisoning	#C5AB89	Complications of internal orthopedic prosth dev/grft
+T85	Injury, poisoning	#C5AB89	Complications of internal prosth dev/grft
+T86	Injury, poisoning	#C5AB89	Complications of transplanted organs and tissue
+T87	Injury, poisoning	#C5AB89	Complications peculiar to reattachment and amputation
+T88	Injury, poisoning	#C5AB89	Oth complications of surgical and medical care, NEC
+T89	Injury, poisoning	#C5AB89	NA
+T90	Injury, poisoning	#C5AB89	NA
+T91	Injury, poisoning	#C5AB89	NA
+T92	Injury, poisoning	#C5AB89	NA
+T93	Injury, poisoning	#C5AB89	NA
+T94	Injury, poisoning	#C5AB89	NA
+T95	Injury, poisoning	#C5AB89	NA
+T96	Injury, poisoning	#C5AB89	NA
+T97	Injury, poisoning	#C5AB89	NA
+T98	Injury, poisoning	#C5AB89	NA
