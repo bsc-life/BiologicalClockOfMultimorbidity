@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "BiologicalClockOfMultimorbidity"
+abstract: >-
+  Interactive Shiny application accompanying "The biological clock of
+  multimorbidity: temporal dynamics of disease co-occurrence in primary
+  care" -- lets users explore comorbidity networks, sex-stratified
+  comparisons, and their evolution across follow-up windows.
+authors:
+  - family-names: "Sánchez Valle"
+    given-names: "Jon"
+    affiliation: "Barcelona Supercomputing Center"
+    orcid: "https://orcid.org/0000-0001-7959-6326"
+  - family-names: "Fernández González"
+    given-names: "José María"
+    affiliation: "Barcelona Supercomputing Center"
+    email: "jose.m.fernandez@bsc.es"
+    orcid: "https://orcid.org/0000-0002-4806-5140"
+version: 1.0.0
+date-released: "2026-08-25"
+repository-code: "https://github.com/bsc-life/BiologicalClockOfMultimorbidity"
+url: "https://disease-perception.bsc.es/BiologicalClockOfMultimorbidity/"
+license: AGPL-3.0-only
+keywords:
+  - multimorbidity
+  - comorbidity network
+  - shiny
+  - data visualization
+  - electronic health records
+  - SIDIAP
+# preferred-citation:
+#   TODO: uncomment and fill in once the associated manuscript is published,
+#   e.g.:
+#   type: article
+#   authors: [...]
+#   title: "The biological clock of multimorbidity: temporal dynamics of disease co-occurrence in primary care"
+#   journal: "..."
+#   year: 2026
+#   doi: "..."
