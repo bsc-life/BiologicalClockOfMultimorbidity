@@ -641,7 +641,7 @@ legend_html <- function() {
 ##  UI
 ## ============================================================
 ui <- navbarPage(
-  title = "Biological Clock of Multimorbidity",
+  title = "Comorbidity Dynamics Explorer",
   theme = shinytheme("flatly"),
   header = tags$head(tags$script(HTML("
     /* Show spinner while visNetwork is computing, hide when done */
