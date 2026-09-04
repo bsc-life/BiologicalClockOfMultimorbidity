@@ -866,9 +866,8 @@ ui <- navbarPage(
         Enable 'Compare RR across all windows' for a wide-format table showing
         how comorbidity risk evolves over time."),
       h4("Reference"),
-      p(em("Sánchez-Valle J et al. The biological clock of multimorbidity:
-           temporal dynamics of disease co-occurrence in primary care.
-           Preprint, 2025."))
+      p(em("Sánchez-Valle J et al. Temporal dynamics of comorbidity detection in primary care.
+           Preprint, 2026."))
     )))
   )
 )
